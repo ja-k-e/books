@@ -7,7 +7,7 @@
     <title>Static Template</title>
   </head>
   <body>
-    <div id="qr-reader" style="width: 500px;"></div>
+    <div id="qr-reader" style="width: 100%;"></div>
     <div id="qr-reader-results"></div>
     <script src="https://unpkg.com/html5-qrcode"></script>
     <script>
@@ -42,7 +42,7 @@
             type: "BOOK",
             book: { source: "OPEN_LIBRARY", data }
           };
-          window.parent.postMessage({ pluginMessage }, "*");
+          window.parent.postMessage({ pluginMessage, pluginId: "*" }, "*");
         } catch (e) {
           console.error(e);
         }
