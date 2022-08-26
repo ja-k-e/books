@@ -1,1 +1,5536 @@
-{ "authors": {}, "books": {} }
+{
+  "reading": {},
+  "read": {
+    "9780060882969": 1,
+    "9780143135203": 1,
+    "9780226526164": 1,
+    "9780241472361": 1,
+    "9780252086113": 1,
+    "9780345806567": 1,
+    "9780374312718": 1,
+    "9780393609844": 1,
+    "9780451529947": 1,
+    "9780471242659": 1,
+    "9780471409731": 1,
+    "9780525560562": 1,
+    "9780679744726": 1,
+    "9780743456081": 1,
+    "9780745335322": 1,
+    "9780759554603": 1,
+    "9780807039830": 1,
+    "9780807064450": 1,
+    "9780812993547": 1,
+    "9780813191720": 1,
+    "9780813527611": 1,
+    "9780872865297": 1,
+    "9781101972083": 1,
+    "9781101972120": 1,
+    "9781137280152": 1,
+    "9781138821514": 1,
+    "9781438488288": 1,
+    "9781441148889": 1,
+    "9781443726733": 1,
+    "9781478006619": 1,
+    "9781479806898": 1,
+    "9781501355547": 1,
+    "9781517911188": 1,
+    "9781517912253": 1,
+    "9781556520747": 1,
+    "9781558618985": 1,
+    "9781580911863": 1,
+    "9781583225813": 1,
+    "9781608461820": 1,
+    "9781608464661": 1,
+    "9781608464715": 1,
+    "9781608465644": 1,
+    "9781608466719": 1,
+    "9781608468553": 1,
+    "9781608468560": 1,
+    "9781620971932": 1,
+    "9781628728293": 1,
+    "9781642594539": 1,
+    "9781642595727": 1,
+    "9781786636720": 1,
+    "9781839762123": 1,
+    "9781839764073": 1,
+    "9781942173434": 1,
+    "9781943735624": 1,
+    "9781982140106": 1,
+    "9781984899422": 1,
+    "9781988139005": 1,
+    "9798686683624": 1
+  },
+  "authors": {
+    "/authors/OL3080724A": {
+      "name": "Natalie Y. Moore",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-04-30 08:14:56.482104"
+      },
+      "key": "/authors/OL3080724A",
+      "type": {
+        "key": "/type/author"
+      },
+      "id": 11836817,
+      "revision": 1
+    },
+    "/authors/OL8442253A": {
+      "alternate_names": [
+        "Devon Price",
+        "Devon Price Ph.D."
+      ],
+      "name": "DeVon Price",
+      "source_records": [
+        "amazon:1797120611",
+        "amazon:1982140119"
+      ],
+      "type": {
+        "key": "/type/author"
+      },
+      "key": "/authors/OL8442253A",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-09-03T03:51:47.101040"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-01-31T10:43:16.258971"
+      }
+    },
+    "/authors/OL7522990A": {
+      "name": "Nia King",
+      "personal_name": "Nia King",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T22:03:29.319958"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T22:03:29.319958"
+      },
+      "latest_revision": 1,
+      "key": "/authors/OL7522990A",
+      "type": {
+        "key": "/type/author"
+      },
+      "revision": 1
+    },
+    "/authors/OL7523013A": {
+      "name": "Elena Rose",
+      "personal_name": "Elena Rose",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T22:04:42.199693"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T22:04:42.199693"
+      },
+      "latest_revision": 1,
+      "key": "/authors/OL7523013A",
+      "type": {
+        "key": "/type/author"
+      },
+      "revision": 1
+    },
+    "/authors/OL2901573A": {
+      "name": "Akasha Gloria Hull",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-04-29 15:03:11.581851"
+      },
+      "key": "/authors/OL2901573A",
+      "type": {
+        "key": "/type/author"
+      },
+      "id": 11148753,
+      "revision": 1
+    },
+    "/authors/OL2631420A": {
+      "name": "Patricia Bell-Scott",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-04-29 13:35:46.87638"
+      },
+      "key": "/authors/OL2631420A",
+      "type": {
+        "key": "/type/author"
+      },
+      "id": 9928788,
+      "revision": 1
+    },
+    "/authors/OL224892A": {
+      "name": "Barbara Smith",
+      "personal_name": "Smith, Barbara",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-05-13T12:47:06.559435"
+      },
+      "latest_revision": 2,
+      "key": "/authors/OL224892A",
+      "birth_date": "1946",
+      "type": {
+        "key": "/type/author"
+      },
+      "revision": 2
+    },
+    "/authors/OL7523016A": {
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-06-03T07:10:54.197841"
+      },
+      "latest_revision": 2,
+      "name": "Brittney C. Cooper",
+      "key": "/authors/OL7523016A",
+      "personal_name": "Brittney C. Cooper",
+      "birth_date": "1980",
+      "type": {
+        "key": "/type/author"
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T22:04:57.316143"
+      },
+      "alternate_names": [
+        "Brittney Cooper"
+      ],
+      "revision": 2
+    },
+    "/authors/OL9765706A": {
+      "type": {
+        "key": "/type/author"
+      },
+      "name": "MORAGA ANZALDUA",
+      "key": "/authors/OL9765706A",
+      "source_records": [
+        "bwb:9781438488271"
+      ],
+      "latest_revision": 1,
+      "revision": 1,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-08T04:46:21.237488"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-08T04:46:21.237488"
+      }
+    },
+    "/authors/OL9573423A": {
+      "type": {
+        "key": "/type/author"
+      },
+      "name": "Ayana Contreras",
+      "key": "/authors/OL9573423A",
+      "source_records": [
+        "bwb:9780252044069"
+      ],
+      "latest_revision": 1,
+      "revision": 1,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-09-28T08:57:29.286567"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-09-28T08:57:29.286567"
+      }
+    },
+    "/authors/OL1430360A": {
+      "name": "Barbara Smith",
+      "personal_name": "Barbara Smith",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-07 19:56:52.396096"
+      },
+      "key": "/authors/OL1430360A",
+      "type": {
+        "key": "/type/author"
+      },
+      "id": 4841043,
+      "revision": 2
+    },
+    "/authors/OL7642395A": {
+      "name": "H. Melt",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-10-06T00:56:34.038239"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-10-06T00:56:34.038239"
+      },
+      "latest_revision": 1,
+      "key": "/authors/OL7642395A",
+      "type": {
+        "key": "/type/author"
+      },
+      "revision": 1
+    },
+    "/authors/OL3020379A": {
+      "name": "Kevin Coval",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-04-30 06:33:27.187047"
+      },
+      "key": "/authors/OL3020379A",
+      "type": {
+        "key": "/type/author"
+      },
+      "id": 11598177,
+      "revision": 1
+    },
+    "/authors/OL9113043A": {
+      "type": {
+        "key": "/type/author"
+      },
+      "name": "Raych Jackson",
+      "key": "/authors/OL9113043A",
+      "source_records": [
+        "amazon:194373562X"
+      ],
+      "latest_revision": 1,
+      "revision": 1,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-03-08T16:21:34.110434"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-03-08T16:21:34.110434"
+      }
+    },
+    "/authors/OL7525388A": {
+      "name": "Eve L. Ewing",
+      "personal_name": "Eve L. Ewing",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T23:36:39.993993"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T23:36:39.993993"
+      },
+      "latest_revision": 1,
+      "key": "/authors/OL7525388A",
+      "type": {
+        "key": "/type/author"
+      },
+      "revision": 1
+    },
+    "/authors/OL241940A": {
+      "bio": {
+        "type": "/type/text",
+        "value": "An American poet, author, and teacher. Her work often dealt with the personal celebrations and struggles of ordinary people in her community (<a href=https://en.wikipedia.org/wiki/Gwendolyn_Brooks>Wikipedia</a>)."
+      },
+      "name": "Gwendolyn Brooks",
+      "personal_name": "Brooks, Gwendolyn",
+      "death_date": "3 December 2000",
+      "alternate_names": [
+        "Gwendolyn BROOKS"
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-27T03:53:55.588391"
+      },
+      "latest_revision": 5,
+      "key": "/authors/OL241940A",
+      "birth_date": "7 June 1917",
+      "revision": 5,
+      "type": {
+        "key": "/type/author"
+      },
+      "remote_ids": {
+        "viaf": "113723435",
+        "wikidata": "Q270715",
+        "isni": "0000000081816650"
+      }
+    },
+    "/authors/OL1604887A": {
+      "photos": [
+        8567902
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "latest_revision": 5,
+      "name": "Ted Chiang",
+      "key": "/authors/OL1604887A",
+      "personal_name": "Ted Chiang",
+      "revision": 5,
+      "type": {
+        "key": "/type/author"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T12:42:07.389520"
+      },
+      "remote_ids": {
+        "viaf": "85807457",
+        "wikidata": "Q503095",
+        "isni": "0000000109218979"
+      }
+    },
+    "/authors/OL1479991A": {
+      "name": "Catherine Fosl",
+      "personal_name": "Catherine Fosl",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-06 07:58:29.505319"
+      },
+      "key": "/authors/OL1479991A",
+      "type": {
+        "key": "/type/author"
+      },
+      "id": 5050848,
+      "revision": 2
+    },
+    "/authors/OL396182A": {
+      "bio": "Angela Yvonne Davis (born January 26, 1944) is an American political activist, academic, and author. She emerged as a prominent counterculture activist and radical in the 1960s as a leader of the Communist Party USA, and had close relations with the Black Panther Party through her involvement in the Civil Rights Movement.\r\n\r\n\r\n**Source**: <a href=\"https://en.wikipedia.org/wiki/Angela_Davis\">Angela Davis</a> on Wikipedia (Wikipedia contributors, <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License\">CC BY-SA 3.0</a>).",
+      "key": "/authors/OL396182A",
+      "alternate_names": [
+        "Angela Davis, Angela Yvonne Davis",
+        "Angela Davis",
+        "Ms. Angela Yvonne Davis",
+        "Angela Yvonne Davis",
+        "Angela (FWD) Davis"
+      ],
+      "photos": [
+        8076040
+      ],
+      "type": {
+        "key": "/type/author"
+      },
+      "remote_ids": {
+        "isni": "0000000110323039",
+        "viaf": "108895419",
+        "wikidata": "Q160456"
+      },
+      "personal_name": "Angela Y. Davis",
+      "name": "Angela Y. Davis",
+      "birth_date": "26 Jan 1944",
+      "latest_revision": 11,
+      "revision": 11,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-07T08:18:51.988756"
+      }
+    },
+    "/authors/OL1074861A": {
+      "name": "Assata Shakur",
+      "personal_name": "Assata Shakur",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-08-20 01:28:09.303262"
+      },
+      "key": "/authors/OL1074861A",
+      "type": {
+        "key": "/type/author"
+      },
+      "id": 3469120,
+      "revision": 2
+    },
+    "/authors/OL3287975A": {
+      "type": {
+        "key": "/type/author"
+      },
+      "name": "Imani Perry",
+      "personal_name": "Imani Perry",
+      "key": "/authors/OL3287975A",
+      "birth_date": "1972",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-06-20T18:22:01.009400"
+      }
+    },
+    "/authors/OL383617A": {
+      "name": "Gerald Horne",
+      "personal_name": "Gerald Horne",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T17:14:52.230657"
+      },
+      "latest_revision": 3,
+      "key": "/authors/OL383617A",
+      "revision": 3,
+      "type": {
+        "key": "/type/author"
+      },
+      "remote_ids": {
+        "viaf": "70039913",
+        "wikidata": "Q5549253",
+        "isni": "0000000114474141"
+      }
+    },
+    "/authors/OL278850A": {
+      "type": {
+        "key": "/type/author"
+      },
+      "personal_name": "Audre Lorde",
+      "source_records": [
+        "bwb:9780486824307",
+        "amazon:9566052006"
+      ],
+      "remote_ids": {
+        "viaf": "61565157",
+        "wikidata": "Q463319",
+        "isni": "0000000115569521"
+      },
+      "birth_date": "18 February 1934",
+      "links": [
+        {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Audre_Lorde",
+          "type": {
+            "key": "/type/link"
+          }
+        }
+      ],
+      "bio": "writer and activist",
+      "death_date": "17 November 1992",
+      "name": "Audre Lorde",
+      "key": "/authors/OL278850A",
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-07-10T16:41:26.011482"
+      }
+    },
+    "/authors/OL7618257A": {
+      "name": "Nick Estes",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-08-05T21:50:48.861684"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-08-05T21:50:48.861684"
+      },
+      "latest_revision": 1,
+      "key": "/authors/OL7618257A",
+      "type": {
+        "key": "/type/author"
+      },
+      "revision": 1
+    },
+    "/authors/OL7838845A": {
+      "name": "George M. Johnson",
+      "source_records": [
+        "amazon:0759554609"
+      ],
+      "type": {
+        "key": "/type/author"
+      },
+      "key": "/authors/OL7838845A",
+      "alternate_names": [
+        "George M Johnson"
+      ],
+      "photos": [
+        12852686
+      ],
+      "birth_date": "1985",
+      "bio": {
+        "type": "/type/text",
+        "value": "George Matthew Johnson (born 1985), more commonly known as George M. Johnson, is a queer Black American author, journalist, and activist. They are best known as the author of the memoir-manifesto All Boys Aren't Blue."
+      },
+      "remote_ids": {
+        "viaf": "37161935621139672833"
+      },
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-04-24T15:46:18.570779"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-08-04T18:44:09.265222"
+      }
+    },
+    "/authors/OL2631291A": {
+      "name": "bell hooks",
+      "death_date": "15 December 2021",
+      "type": {
+        "key": "/type/author"
+      },
+      "birth_date": "25 September 1952",
+      "personal_name": "Bell Hooks",
+      "bio": {
+        "type": "/type/text",
+        "value": "Gloria Jean Watkins, better known by her pen name bell hooks, is an American author, feminist, and social activist. The name \"bell hooks\" is derived from that of her maternal great-grandmother, Bell Blair Hooks. - Wikipedia"
+      },
+      "key": "/authors/OL2631291A",
+      "photos": [
+        6677152
+      ],
+      "alternate_names": [
+        "Bell Hooks",
+        "Gloria Jean Watkins",
+        "bell hooks bell hooks"
+      ],
+      "remote_ids": {
+        "viaf": "79115934",
+        "wikidata": "Q259507",
+        "isni": "000000011072449X"
+      },
+      "source_records": [
+        "bwb:9781416538233",
+        "bwb:9786075692302"
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-07-25T09:18:04.139857"
+      }
+    },
+    "/authors/OL7932828A": {
+      "name": "Michelle Alexander",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-05-28T16:26:56.065187"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-05-28T16:26:56.065187"
+      },
+      "latest_revision": 1,
+      "key": "/authors/OL7932828A",
+      "type": {
+        "key": "/type/author"
+      },
+      "revision": 1
+    },
+    "/authors/OL2854873A": {
+      "name": "Alice Wong",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-04-29 15:03:11.581851"
+      },
+      "key": "/authors/OL2854873A",
+      "type": {
+        "key": "/type/author"
+      },
+      "id": 10939523,
+      "revision": 1
+    },
+    "/authors/OL6988256A": {
+      "name": "Dean Spade",
+      "personal_name": "Dean Spade",
+      "type": {
+        "key": "/type/author"
+      },
+      "key": "/authors/OL6988256A",
+      "remote_ids": {
+        "wikidata": "Q5246478"
+      },
+      "birth_date": "1977",
+      "photos": [
+        11173791
+      ],
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2011-10-21T20:35:32.444406"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-18T01:08:07.483319"
+      }
+    },
+    "/authors/OL2641167A": {
+      "name": "Frederick Douglass",
+      "personal_name": "Douglass, Frederick",
+      "death_date": "1895",
+      "alternate_names": [
+        ""
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "photos": [
+        7286250
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T12:07:05.789223"
+      },
+      "latest_revision": 6,
+      "key": "/authors/OL2641167A",
+      "birth_date": "1818",
+      "revision": 6,
+      "type": {
+        "key": "/type/author"
+      },
+      "remote_ids": {
+        "viaf": "10088",
+        "wikidata": "Q215562",
+        "isni": "0000000121171288"
+      }
+    },
+    "/authors/OL3542009A": {
+      "name": "Colin Fleming",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-04-30 09:38:13.731961"
+      },
+      "key": "/authors/OL3542009A",
+      "type": {
+        "key": "/type/author"
+      },
+      "id": 14647009,
+      "revision": 1
+    },
+    "/authors/OL4886373A": {
+      "name": "Aaron Cohen",
+      "personal_name": "Aaron Cohen",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-09-20 02:04:21.24685"
+      },
+      "key": "/authors/OL4886373A",
+      "type": {
+        "key": "/type/author"
+      },
+      "id": 21885038,
+      "revision": 1
+    },
+    "/authors/OL9440254A": {
+      "type": {
+        "key": "/type/author"
+      },
+      "name": "The Red Nation",
+      "key": "/authors/OL9440254A",
+      "source_records": [
+        "amazon:1942173431"
+      ],
+      "latest_revision": 1,
+      "revision": 1,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-09-12T22:43:21.722082"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-09-12T22:43:21.722082"
+      }
+    },
+    "/authors/OL9084266A": {
+      "type": {
+        "key": "/type/author"
+      },
+      "name": "Hil Malatino",
+      "key": "/authors/OL9084266A",
+      "source_records": [
+        "amazon:1517911184"
+      ],
+      "latest_revision": 1,
+      "revision": 1,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-01-14T23:54:03.803305"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-01-14T23:54:03.803305"
+      }
+    },
+    "/authors/OL2658871A": {
+      "personal_name": "Sojourner Truth",
+      "type": {
+        "key": "/type/author"
+      },
+      "death_date": "26 Nov 1883",
+      "photos": [
+        6626629
+      ],
+      "source_records": [
+        "amazon:1607960257",
+        "bwb:9798431495557"
+      ],
+      "alternate_names": [
+        "Sojourner Truth",
+        "Sojourner, Truth",
+        "Truth Sojourner Truth",
+        "sojourner truth"
+      ],
+      "key": "/authors/OL2658871A",
+      "birth_date": "ca. 1797",
+      "name": "Sojourner Truth",
+      "remote_ids": {
+        "viaf": "74657903",
+        "wikidata": "Q105180",
+        "isni": "0000000109884285"
+      },
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-06-20T18:23:15.926968"
+      }
+    },
+    "/authors/OL7716816A": {
+      "name": "Stuart Easterling",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-10-26T23:38:39.589280"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-10-26T23:38:39.589280"
+      },
+      "latest_revision": 1,
+      "key": "/authors/OL7716816A",
+      "type": {
+        "key": "/type/author"
+      },
+      "revision": 1
+    },
+    "/authors/OL22530A": {
+      "links": [
+        {
+          "url": "http://en.wikipedia.org/wiki/Rebecca_Solnit",
+          "title": "Wikipedia",
+          "type": {
+            "key": "/type/link"
+          }
+        },
+        {
+          "url": "https://en.wikiquote.org/wiki/Rebecca_Solnit",
+          "title": "Wikiquote",
+          "type": {
+            "key": "/type/link"
+          }
+        }
+      ],
+      "birth_date": "1961",
+      "type": {
+        "key": "/type/author"
+      },
+      "key": "/authors/OL22530A",
+      "remote_ids": {
+        "wikidata": "Q2134968",
+        "viaf": "41972193",
+        "isni": "0000000083761710"
+      },
+      "bio": "A writer who lives in San Francisco. She has written on a variety of subjects including the environment, politics, place, and art.",
+      "photos": [
+        7334164
+      ],
+      "name": "Rebecca Solnit",
+      "personal_name": "Rebecca Solnit",
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-12-22T08:24:17.330137"
+      }
+    },
+    "/authors/OL3619755A": {
+      "name": "Marc Lamont Hill",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-04-30 09:38:13.731961"
+      },
+      "key": "/authors/OL3619755A",
+      "type": {
+        "key": "/type/author"
+      },
+      "id": 15037211,
+      "revision": 1
+    },
+    "/authors/OL7082789A": {
+      "name": "Frank Barat",
+      "personal_name": "Frank Barat",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2012-02-22T11:08:59.193430"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-02-22T11:08:59.193430"
+      },
+      "latest_revision": 1,
+      "key": "/authors/OL7082789A",
+      "type": {
+        "key": "/type/author"
+      },
+      "revision": 1
+    },
+    "/authors/OL7526541A": {
+      "name": "Keeanga-Yamahtta Taylor",
+      "personal_name": "Keeanga-Yamahtta Taylor",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-24T00:27:53.287612"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-24T00:27:53.287612"
+      },
+      "latest_revision": 1,
+      "key": "/authors/OL7526541A",
+      "type": {
+        "key": "/type/author"
+      },
+      "revision": 1
+    },
+    "/authors/OL5936620A": {
+      "name": "Malcolm X",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-10-26T08:06:43.182695"
+      },
+      "personal_name": "Malcolm X",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-10-26T08:06:43.182695"
+      },
+      "key": "/authors/OL5936620A",
+      "type": {
+        "key": "/type/author"
+      },
+      "id": 30243782,
+      "revision": 1
+    },
+    "/authors/OL7978311A": {
+      "name": "Imam Benjamin Karim",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-06-14T05:29:04.666544"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-06-14T05:29:04.666544"
+      },
+      "latest_revision": 1,
+      "key": "/authors/OL7978311A",
+      "type": {
+        "key": "/type/author"
+      },
+      "revision": 1
+    },
+    "/authors/OL228242A": {
+      "alternate_names": [
+        "Michael Löwy",
+        "Michael Lowy",
+        "Lowy/Michael",
+        "M. Lowy"
+      ],
+      "type": {
+        "key": "/type/author"
+      },
+      "birth_date": "6 May 1938",
+      "name": "Michael Löwy",
+      "remote_ids": {
+        "isni": "0000000107750646",
+        "viaf": "61548972",
+        "wikidata": "Q679718"
+      },
+      "links": [
+        {
+          "title": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Michael_L%C3%B6wy",
+          "type": {
+            "key": "/type/link"
+          }
+        },
+        {
+          "title": "BookBrainz",
+          "url": "https://bookbrainz.org/author/05f75096-fd1a-45f3-af0b-9e8df8c88a3f",
+          "type": {
+            "key": "/type/link"
+          }
+        },
+        {
+          "title": "inventaire.io",
+          "url": "https://inventaire.io/entity/wd:Q679718",
+          "type": {
+            "key": "/type/link"
+          }
+        }
+      ],
+      "personal_name": "Michael Löwy",
+      "bio": "French sociologist",
+      "key": "/authors/OL228242A",
+      "photos": [
+        8080289
+      ],
+      "latest_revision": 9,
+      "revision": 9,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-07-04T09:16:34.538337"
+      }
+    },
+    "/authors/OL7940900A": {
+      "name": "Mikki Kendall",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-06-01T17:41:16.990885"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-06-01T17:41:16.990885"
+      },
+      "latest_revision": 1,
+      "key": "/authors/OL7940900A",
+      "type": {
+        "key": "/type/author"
+      },
+      "revision": 1
+    },
+    "/authors/OL7303591A": {
+      "name": "W. E. B. Du Bois",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T03:58:13.269187"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2016-10-14T03:58:13.269187"
+      },
+      "latest_revision": 1,
+      "key": "/authors/OL7303591A",
+      "type": {
+        "key": "/type/author"
+      },
+      "revision": 1
+    },
+    "/authors/OL1482336A": {
+      "birth_date": "1967",
+      "source_records": [
+        "amazon:0008516480"
+      ],
+      "key": "/authors/OL1482336A",
+      "personal_name": "Honorée Fanonne Jeffers",
+      "type": {
+        "key": "/type/author"
+      },
+      "alternate_names": [
+        "Honorée Fanonne Jeffers",
+        "Honoree Fanonne Jeffers",
+        "Honore Fanonne Jeffers",
+        "Honor©e Fanonne Jeffers"
+      ],
+      "name": "Honorée Fanonne Jeffers",
+      "photos": [
+        12689963
+      ],
+      "remote_ids": {
+        "wikidata": "Q55713401"
+      },
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-03-28T07:34:37.428973"
+      }
+    },
+    "/authors/OL7795224A": {
+      "name": "Tracy K. Smith",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-12-17T05:17:06.914858"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-12-17T05:17:06.914858"
+      },
+      "latest_revision": 1,
+      "key": "/authors/OL7795224A",
+      "type": {
+        "key": "/type/author"
+      },
+      "revision": 1
+    },
+    "/authors/OL391839A": {
+      "bio": {
+        "type": "/type/text",
+        "value": "James Arthur Baldwin was an American novelist, writer, playwright, poet, essayist and civil rights activist. Most of Baldwin's work deals with racial and sexual issues in the mid-20th century in the United States. His novels are notable for the personal way in which they explore questions of identity as well as the way in which they mine complex social and psychological pressures related to being black and homosexual well before the social, cultural or political equality of these groups was improved.\r\n\r\nSource and more information: https://en.wikipedia.org/wiki/James_Baldwin"
+      },
+      "name": "James Baldwin",
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/James_Baldwin",
+          "title": "Wikipedia",
+          "type": {
+            "key": "/type/link"
+          }
+        },
+        {
+          "title": "BookBrainz",
+          "url": "https://bookbrainz.org/author/034280de-a359-4928-8035-c6f66ba54f6a",
+          "type": {
+            "key": "/type/link"
+          }
+        },
+        {
+          "title": "inventaire.io",
+          "url": "https://inventaire.io/entity/wd:Q273210",
+          "type": {
+            "key": "/type/link"
+          }
+        }
+      ],
+      "personal_name": "Baldwin, James",
+      "death_date": "30 November 1987",
+      "alternate_names": [
+        "Baldwin, James",
+        "James A. Baldwin",
+        "Robert Dudley"
+      ],
+      "photos": [
+        7277122,
+        3367738
+      ],
+      "key": "/authors/OL391839A",
+      "birth_date": "2 August 1924",
+      "type": {
+        "key": "/type/author"
+      },
+      "remote_ids": {
+        "goodreads": "10427",
+        "wikidata": "Q273210",
+        "isni": "0000000121446704",
+        "librarything": "baldwinjames-1",
+        "amazon": "B000APVA9U",
+        "viaf": "97644708"
+      },
+      "latest_revision": 14,
+      "revision": 14,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-07-30T11:51:19.549156"
+      }
+    },
+    "/authors/OL2711203A": {
+      "name": "ROBESON",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2008-04-29 13:35:46.87638"
+      },
+      "key": "/authors/OL2711203A",
+      "type": {
+        "key": "/type/author"
+      },
+      "id": 10260591,
+      "revision": 1
+    },
+    "/authors/OL7595190A": {
+      "name": "Shana L. Redmond",
+      "personal_name": "Shana L. Redmond",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-18T11:52:06.329304"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-07-18T11:52:06.329304"
+      },
+      "latest_revision": 1,
+      "key": "/authors/OL7595190A",
+      "type": {
+        "key": "/type/author"
+      },
+      "revision": 1
+    },
+    "/authors/OL819651A": {
+      "personal_name": "Paul Robeson",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-30T12:11:08.317977"
+      },
+      "latest_revision": 5,
+      "key": "/authors/OL819651A",
+      "remote_ids": {
+        "viaf": "197471",
+        "wikidata": "Q273233",
+        "isni": "0000000108617396"
+      },
+      "name": "Paul Robeson",
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "death_date": "1976",
+      "birth_date": "1898",
+      "type": {
+        "key": "/type/author"
+      },
+      "revision": 5
+    }
+  },
+  "books": {
+    "/books/OL27205350M": {
+      "table_of_contents": [
+        {
+          "level": 0,
+          "title": "A Legacy Threatened",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Jim Crow in Chicago",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "A Dream Deferred",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Notes from a Black Gentrifer",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Separate and Still Unequal",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Kale Is the New Collard",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Searching for Harold",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Sweet Home Chicago.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "\"Mayors Richard M. Daley and Rahm Emanuel have touted and promoted Chicago as a \"world class city.\" The skyscrapers kissing the clouds, the billion-dollar Millennium Park, Michelin-rated restaurants, pristine lake views, fabulous shopping, vibrant theater scene, downtown flower beds and stellar architecture tell one story. Yet, swept under the rug is the stench of segregation that compromises Chicago. The Manhattan Institute dubs Chicago as one of the most segregated big cities in the country. Though other cities - including Cleveland, Los Angeles, and Baltimore - can fight over that mantle, it's clear that segregation defines Chicago. And unlike many other major U.S. cities, no one race dominates. Chicago is divided equally into black, white, and Latino, each group clustered in their various turfs. In this intelligent and highly important narrative, Chicago-native Natalie Moore shines a light on contemporary segregation on the South Side of Chicago through reported essays, showing the life of these communities through the stories of people who live in them. The South Side shows the important impact of Chicago's historic segregation - and the ongoing policies that keep it that way\"--"
+      },
+      "links": [
+        {
+          "url": "http://www.netread.com/jcusers2/bk1388/152/9781137280152/image/lgcover.9781137280152.jpg",
+          "title": "Cover image"
+        }
+      ],
+      "local_id": [
+        "urn:sfpl:31223116510059",
+        "urn:sfpl:31223116509929",
+        "urn:sfpl:31223116510075",
+        "urn:sfpl:31223118437103",
+        "urn:sfpl:31223118437111"
+      ],
+      "subject_times": [
+        "20th century",
+        "21st century"
+      ],
+      "copyright_date": "2016",
+      "full_title": "The South Side a portrait of Chicago and American segregation",
+      "lc_classifications": [
+        "F548.9.A1 M66 2016",
+        "F548.9.A1M66 2016"
+      ],
+      "key": "/books/OL27205350M",
+      "authors": [
+        {
+          "key": "/authors/OL3080724A"
+        }
+      ],
+      "subtitle": "a portrait of Chicago and American segregation",
+      "subjects": [
+        "Discrimination in housing",
+        "Race relations",
+        "Segregation",
+        "Social conditions",
+        "African Americans",
+        "Racism",
+        "History"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "xii, 250 pages, 8 unnumbered pages of plates",
+      "source_records": [
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run05.mrc:295185535:4624",
+        "bwb:9781137280152",
+        "marc:marc_loc_2016/BooksAll.2016.part42.utf8:83780350:2676",
+        "ia:southsideportrai0000moor"
+      ],
+      "title": "The South Side",
+      "lccn": [
+        "2015033955"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Various printings.\n\nIncludes bibliographical references (pages [227]-241) and index."
+      },
+      "number_of_pages": 250,
+      "isbn_13": [
+        "9781137280152"
+      ],
+      "edition_name": "First edition.",
+      "dewey_decimal_class": [
+        "305.8009773/11"
+      ],
+      "subject_places": [
+        "Chicago (Ill.)",
+        "Illinois",
+        "Chicago"
+      ],
+      "isbn_10": [
+        "1137280158"
+      ],
+      "subject_people": [
+        "Natalie Y. Moore"
+      ],
+      "publish_country": "nyu",
+      "publish_date": "2016",
+      "by_statement": "Natalie Y. Moore",
+      "oclc_numbers": [
+        "923665618"
+      ],
+      "works": [
+        {
+          "key": "/works/OL20025301W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        12729697
+      ],
+      "ocaid": "southsideportrai0000moor",
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-19T11:33:43.371301"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-05-05T04:50:48.211326"
+      },
+      "cover": "OL27205350M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL30080357M": {
+      "publishers": [
+        "Atria Books"
+      ],
+      "source_records": [
+        "bwb:9781982140106"
+      ],
+      "title": "Laziness Does Not Exist",
+      "number_of_pages": 256,
+      "isbn_13": [
+        "9781982140106"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lc_classifications": [
+        "",
+        "BF485"
+      ],
+      "publish_date": "2021",
+      "key": "/books/OL30080357M",
+      "authors": [
+        {
+          "key": "/authors/OL8442253A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL22049448W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        10673464
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-09-03T03:51:47.101040"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-07T19:07:37.936941"
+      },
+      "cover": "OL30080357M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL26927792M": {
+      "other_titles": [
+        "Queer & trans artists of color."
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Foreword by Leah Lakshmi Piepzna-Samarasinha",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Introduction by Nia King",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "[Interviews]: Juba Kalamka",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Dr. micha cárdenas",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Elena Rose",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Indira Allegra",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Amir Rabiyah",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Mimi Thi Nguyen",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Lexi Adsit",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Tina Takemoto",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Ajuan Mance",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Martín Sorrondeguy",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Trish Salah",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Cherry Galette",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Mattie Brice",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Vivek Shraya",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Kiley May",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Artist Bios.",
+          "pagenum": ""
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "Building on the groundbreaking first volume, Queer and Trans Artists of Color: Stories of Some of Our Lives, Nia King returns with a second archive of interviews from her podcast We Want the Airwaves."
+      },
+      "isbn_10": [
+        "1988139007"
+      ],
+      "local_id": [
+        "urn:sfpl:31223122292957",
+        "urn:sfpl:31223122292965"
+      ],
+      "full_title": "Queer and trans artists of color",
+      "lc_classifications": [
+        "NX652.G38 Q442 2016"
+      ],
+      "latest_revision": 1,
+      "key": "/books/OL26927792M",
+      "authors": [
+        {
+          "key": "/authors/OL7522990A"
+        },
+        {
+          "key": "/authors/OL7523013A"
+        }
+      ],
+      "isbn_13": [
+        "9781988139005"
+      ],
+      "pagination": "xiv, 231 pages",
+      "source_records": [
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run06.mrc:18977543:2338"
+      ],
+      "title": "Queer and trans artists of color",
+      "notes": {
+        "type": "/type/text",
+        "value": "Publisher from Amazon.com."
+      },
+      "number_of_pages": 231,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T22:04:42.199693"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Interviews",
+        "Transgender artists",
+        "Gay artists",
+        "Minority artists"
+      ],
+      "publish_date": "2016",
+      "publish_country": "xx",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T22:04:42.199693"
+      },
+      "by_statement": "interviews by Nia King ; edited by Elena Rose",
+      "oclc_numbers": [
+        "965830537"
+      ],
+      "works": [
+        {
+          "key": "/works/OL19714655W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 1,
+      "cover": null,
+      "source": "open-library"
+    },
+    "/books/OL27210551M": {
+      "other_titles": [
+        "But some of us are brave",
+        "Black women's studies"
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "title": "Women  -- Alice Walker -- Foreword / -- May Berry",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Introduction : the politics of Black women's studies  -- Gloria T. Hull, Barbara Smith",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Visions : recommendations for the future of Black women's studies --",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Searching for sisterhood : Black feminism.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "A Black feminist's search for sisterhood  -- Michele Wallace",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "A Black feminist statement  -- The Combahee River Collective",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Selected bibliography on Black feminism -- Patricia Bell Scott",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Roadblocks and bridges : confronting racism.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "One child of one's own : a meaningful digression within the work(s)-- an excerpt  -- Alice Walker",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Racism-- a White issue  -- Ellen Pence",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Racism and women's studies  -- Barbara Smith",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Face-to-face, day-to-day-- racism CR -- Tia Cross, Freada Klein, Barbara Smith, Beverly Smith",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Dispelling the myths : Black women and the social sciences.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Studying slavery : some literary and pedagogical considerations on the Black female slave  -- Erlene Stetson",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Debunking Sapphire : toward a non-racist and non-sexist social science  -- Patricia Bell Scott",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Two representative issues in contemporary sociological work on Black women -- Elizabeth Higginbotham",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Creative survival : preserving body, mind, and spirit.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Black women's health : notes for a course  -- Beverly Smith",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Three's a crowd : the dilemma of the Black woman in higher education  -- Constance M. Carroll",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Slave codes and liner notes  -- Michele Russell",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Black women and the church -- Jacquelyn Grant",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Necessary bread : Black women's literature.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Toward a Black feminist criticism  -- Barbara Smith",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "\"This infinity of conscious pain\" : Zora Neale Hurston and the Black female literary tradition  -- Lorraine Bethel",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Researching Alice Dunbar-Nelson : a personal and literary perspective  -- Gloria T. Hull",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Black-eyed blues connections  -- Michele Russell",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Teaching Black-eyed Susans : an approach to the study of Black women writers -- Mary Helen Washington",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Bibliographies and bibliographic essays.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Afro-American women 1800-1910 : excerpts from a working bibliography  -- Jean Fagan Yellin",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Afro-American women poets of the nineteenth century : a guide to research and bio-bibliographies of the poets  -- Joan R. Sherman",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "On the novels written by selected Black American women : a bibliographical essay  -- Rita B. Dandridge",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Black women playwrights from Grimké to Shange : selected synopses of their works  -- Jeanne-Marie A. Miller",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "American Black women composers : a selected annotated bibliography  -- Ora Williams, Thelma Williams, Dora Wilson, Ramona Matthewson",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "A listing of non-print materials on Black women -- Martha H. Brown-- Additional references and resources-- Doing the work : selected course syllabi. General/Social/Interdisciplinary ; Literature-- Afterword /-- Brittney Cooper.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "Essays study the history and position of Black women in America, discussing such topics as racism, Black feminism, and Black women's literature."
+      },
+      "local_id": [
+        "urn:sfpl:31223116642159",
+        "urn:sfpl:31223116642142"
+      ],
+      "full_title": "All the women are white, all the blacks are men, but some of us are brave Black women's studies",
+      "lc_classifications": [
+        "E185.86 .A4 2015",
+        "E185.86"
+      ],
+      "key": "/books/OL27210551M",
+      "authors": [
+        {
+          "key": "/authors/OL2901573A"
+        },
+        {
+          "key": "/authors/OL2631420A"
+        },
+        {
+          "key": "/authors/OL224892A"
+        },
+        {
+          "key": "/authors/OL7523016A"
+        }
+      ],
+      "subtitle": "Black women's studies",
+      "subjects": [
+        "Social conditions",
+        "Race relations",
+        "Bibliography",
+        "African American women",
+        "Feminism"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "xxxiv, 413 pages",
+      "source_records": [
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run05.mrc:320724324:6078",
+        "bwb:9781558618985",
+        "marc:marc_loc_2016/BooksAll.2016.part42.utf8:82681424:1347",
+        "bwb:9781558618992"
+      ],
+      "title": "All the women are white, all the blacks are men, but some of us are brave",
+      "dewey_decimal_class": [
+        "305.48/896073"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "\"For this second edition, updates to the contributors' bios are set in bold italics\"--Page 387.\n\nIncludes bibliographical references and index."
+      },
+      "number_of_pages": 413,
+      "isbn_13": [
+        "9781558618985",
+        "9781558618992"
+      ],
+      "edition_name": "Second edition.",
+      "lccn": [
+        "2015033173"
+      ],
+      "subject_places": [
+        "United States"
+      ],
+      "isbn_10": [
+        "1558618988"
+      ],
+      "publish_date": "2015",
+      "publish_country": "nyu",
+      "by_statement": "edited by Akasha (Gloria T.) Hull, Patricia Bell-Scott & Barbara Smith ; new afterword by Brittney Cooper",
+      "oclc_numbers": [
+        "919316404"
+      ],
+      "works": [
+        {
+          "key": "/works/OL20030503W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-19T13:26:28.366439"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-12-30T09:04:30.894824"
+      },
+      "cover": null,
+      "source": "open-library"
+    },
+    "/books/OL34806523M": {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL9765706A"
+        }
+      ],
+      "isbn_13": [
+        "9781438488288"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "publish_date": "2022",
+      "publishers": [
+        "State University of New York Press"
+      ],
+      "source_records": [
+        "bwb:9781438488288"
+      ],
+      "title": "This Bridge Called My Back Fortie",
+      "full_title": "This Bridge Called My Back Fortie",
+      "works": [
+        {
+          "key": "/works/OL25814538W"
+        }
+      ],
+      "key": "/books/OL34806523M",
+      "latest_revision": 1,
+      "revision": 1,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-10-08T04:46:21.727516"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-08T04:46:21.727516"
+      },
+      "cover": null,
+      "source": "open-library"
+    },
+    "/books/OL33912467M": {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL9573423A"
+        }
+      ],
+      "isbn_13": [
+        "9780252086113"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "number_of_pages": 192,
+      "publish_date": "2021",
+      "publishers": [
+        "University of Illinois Press"
+      ],
+      "source_records": [
+        "bwb:9780252086113"
+      ],
+      "title": "Energy Never Dies",
+      "subtitle": "Afro-Optimism and Creativity in Chicago",
+      "full_title": "Energy Never Dies Afro-Optimism and Creativity in Chicago",
+      "works": [
+        {
+          "key": "/works/OL25320387W"
+        }
+      ],
+      "key": "/books/OL33912467M",
+      "latest_revision": 1,
+      "revision": 1,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-09-28T08:58:03.663328"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-09-28T08:58:03.663328"
+      },
+      "cover": null,
+      "source": "open-library"
+    },
+    "/books/OL8025649M": {
+      "publishers": [
+        "Rutgers University Press"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "747191"
+        ],
+        "librarything": [
+          "997864"
+        ]
+      },
+      "subtitle": "Writings on Race, Gender, and Freedom",
+      "weight": "14.1 ounces",
+      "covers": [
+        609097
+      ],
+      "physical_format": "Paperback",
+      "key": "/books/OL8025649M",
+      "authors": [
+        {
+          "key": "/authors/OL1430360A"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "amazon:0813527619:di:3182406966:239524",
+        "marc:marc_ithaca_college/ic_marc.mrc:194898602:2027",
+        "ia:truththatneverhu0000smit",
+        "bwb:9780813527611"
+      ],
+      "title": "The Truth That Never Hurts",
+      "number_of_pages": 240,
+      "first_sentence": "IN EARLY 1977 editors of the new lesbian feminist literary magazine, Conditions, invited me to write an essay about Black women writers.",
+      "subjects": [
+        "Feminism",
+        "Gay studies (Gay men)",
+        "Sociology",
+        "Gender Studies",
+        "Social Science",
+        "Gay/Lesbian Nonfiction",
+        "General",
+        "Feminism & Feminist Theory",
+        "Gay Studies"
+      ],
+      "publish_date": "September 2000",
+      "works": [
+        {
+          "key": "/works/OL1878022W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.7 x 5.9 x 0.4 inches",
+      "ocaid": "truththatneverhu0000smit",
+      "isbn_10": [
+        "0813527619"
+      ],
+      "isbn_13": [
+        "9780813527611"
+      ],
+      "classifications": {},
+      "lc_classifications": [
+        "E185.86.S635 2000"
+      ],
+      "latest_revision": 13,
+      "revision": 13,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-06-11T16:17:21.042571"
+      },
+      "cover": "OL8025649M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL32496301M": {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "There Are Trans People Here",
+      "authors": [
+        {
+          "key": "/authors/OL7642395A"
+        }
+      ],
+      "publish_date": "Nov 16, 2021",
+      "source_records": [
+        "amazon:1642595721",
+        "bwb:9781642595727"
+      ],
+      "number_of_pages": 100,
+      "publishers": [
+        "Haymarket Books"
+      ],
+      "isbn_10": [
+        "1642595721"
+      ],
+      "isbn_13": [
+        "9781642595727"
+      ],
+      "physical_format": "paperback",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: There Are Trans People Here (Breakbeat Poets)"
+      },
+      "full_title": "There Are Trans People Here",
+      "covers": [
+        11149890
+      ],
+      "works": [
+        {
+          "key": "/works/OL24520115W"
+        }
+      ],
+      "key": "/books/OL32496301M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-05-23T10:45:00.208122"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-09-30T21:59:03.491301"
+      },
+      "cover": "OL32496301M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL27238441M": {
+      "description": {
+        "type": "/type/text",
+        "value": "Coval's poems celebrate the history of Chicago from the perspective of those on the margins, those whose stories often go untold. In doing so he honors the everyday lives and enduring resistance of the city's workers, poor people, and people of color, whose cultural and political revolutions continue to shape the social landscape."
+      },
+      "series": [
+        "Breakbeat poets series"
+      ],
+      "local_id": [
+        "urn:sfpl:31223121814827",
+        "urn:sfpl:31223121814801",
+        "urn:sfpl:31223121814793",
+        "urn:sfpl:31223121814819"
+      ],
+      "lc_classifications": [
+        "PS3603.O88825 P46 2017",
+        "PS3603.O88825"
+      ],
+      "latest_revision": 3,
+      "key": "/books/OL27238441M",
+      "authors": [
+        {
+          "key": "/authors/OL3020379A"
+        }
+      ],
+      "contributions": [
+        "Chance the Rapper, writer of foreword"
+      ],
+      "subjects": [
+        "Poetry"
+      ],
+      "isbn_13": [
+        "9781608466719"
+      ],
+      "pagination": "x, 135 pages",
+      "source_records": [
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run05.mrc:468552475:2548",
+        "bwb:9781608466719"
+      ],
+      "title": "A people's history of Chicago",
+      "work_titles": [
+        "Poems"
+      ],
+      "number_of_pages": 135,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-20T00:18:26.219962"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "dewey_decimal_class": [
+        "811/.6"
+      ],
+      "subject_places": [
+        "Chicago (Ill.)"
+      ],
+      "isbn_10": [
+        "160846671X"
+      ],
+      "publish_date": "2017",
+      "publish_country": "ilu",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-10-11T09:00:37.335947"
+      },
+      "by_statement": "Kevin Coval ; foreword by Chance the Rapper",
+      "oclc_numbers": [
+        "959034944"
+      ],
+      "works": [
+        {
+          "key": "/works/OL20058433W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 3,
+      "cover": null,
+      "source": "open-library"
+    },
+    "/books/OL32017096M": {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Even the Saints Audition",
+      "authors": [
+        {
+          "key": "/authors/OL9113043A"
+        }
+      ],
+      "publish_date": "Sep 24, 2019",
+      "source_records": [
+        "amazon:194373562X"
+      ],
+      "number_of_pages": 96,
+      "publishers": [
+        "Button Poetry"
+      ],
+      "isbn_10": [
+        "194373562X"
+      ],
+      "isbn_13": [
+        "9781943735624"
+      ],
+      "physical_format": "paperback",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Even the Saints Audition (Button Poetry)"
+      },
+      "covers": [
+        10683468
+      ],
+      "works": [
+        {
+          "key": "/works/OL24221280W"
+        }
+      ],
+      "key": "/books/OL32017096M",
+      "latest_revision": 1,
+      "revision": 1,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-03-08T16:21:34.110434"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-03-08T16:21:34.110434"
+      },
+      "cover": "OL32017096M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL28966639M": {
+      "publishers": [
+        "University of Chicago Press"
+      ],
+      "subtitle": "Racism and School Closings on Chicago's South Side",
+      "covers": [
+        10367963
+      ],
+      "physical_format": "paperback",
+      "full_title": "Ghosts in the Schoolyard Racism and School Closings on Chicago's South Side",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-08-25T05:52:39.700786"
+      },
+      "latest_revision": 2,
+      "key": "/books/OL28966639M",
+      "authors": [
+        {
+          "key": "/authors/OL7525388A"
+        }
+      ],
+      "source_records": [
+        "amazon:022652616X",
+        "bwb:9780226526164"
+      ],
+      "title": "Ghosts in the Schoolyard",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Ghosts in the Schoolyard: Racism and School Closings on Chicago's South Side"
+      },
+      "number_of_pages": 240,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-08-19T15:59:18.556131"
+      },
+      "isbn_13": [
+        "9780226526164"
+      ],
+      "isbn_10": [
+        "022652616X"
+      ],
+      "publish_date": "Apr 10, 2020",
+      "works": [
+        {
+          "key": "/works/OL19761382W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 2,
+      "cover": "OL28966639M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL26932620M": {
+      "description": {
+        "type": "/type/text",
+        "value": "Blending stark realism with the surreal and fantastic, Eve L. Ewings narrative takes us from the streets of 1990s Chicago to an unspecified future, deftly navigating the boundaries of space, time, and reality. Ewing imagines familiar figures in magical circumstancesblues legend Koko Taylor is a tall-tale hero; LeBron James travels through time and encounters his teenage self. She identifies everyday objectshair moisturizer, a spiral notebookas precious icons."
+      },
+      "isbn_10": [
+        "1608468569"
+      ],
+      "local_id": [
+        "urn:sfpl:31223122736961",
+        "urn:sfpl:31223122736870",
+        "urn:sfpl:31223122736953"
+      ],
+      "lc_classifications": [
+        "PS3605.W553x E44 2017",
+        "PS3605"
+      ],
+      "latest_revision": 3,
+      "key": "/books/OL26932620M",
+      "authors": [
+        {
+          "key": "/authors/OL7525388A"
+        }
+      ],
+      "subject_times": [
+        "21st century"
+      ],
+      "isbn_13": [
+        "9781608468560"
+      ],
+      "pagination": "ix, 90 pages",
+      "source_records": [
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run06.mrc:38586934:2642",
+        "bwb:9781608468560"
+      ],
+      "title": "Electric arches",
+      "dewey_decimal_class": [
+        "811.608"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Collection of poetry, essays, and visual art."
+      },
+      "number_of_pages": 90,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-23T23:36:39.993993"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "American poetry"
+      ],
+      "publish_date": "2017",
+      "publish_country": "ilu",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-10-11T11:04:54.375080"
+      },
+      "by_statement": "Eve L. Ewing",
+      "oclc_numbers": [
+        "972252403"
+      ],
+      "works": [
+        {
+          "key": "/works/OL19719490W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 3,
+      "cover": null,
+      "source": "open-library"
+    },
+    "/books/OL7283485M": {
+      "publishers": [
+        "Harper Perennial Modern Classics"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "225750"
+        ],
+        "librarything": [
+          "49690"
+        ]
+      },
+      "isbn_10": [
+        "0060882964"
+      ],
+      "covers": [
+        38974
+      ],
+      "lc_classifications": [
+        "PS3503.R7244"
+      ],
+      "key": "/books/OL7283485M",
+      "authors": [
+        {
+          "key": "/authors/OL241940A"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run03.mrc:172942755:3042",
+        "bwb:9780060882969",
+        "ia:selectedpoems0000broo",
+        "amazon:0060882964"
+      ],
+      "title": "Selected Poems (P.S.)",
+      "number_of_pages": 176,
+      "isbn_13": [
+        "9780060882969"
+      ],
+      "local_id": [
+        "urn:sfpl:31223074932212",
+        "urn:sfpl:31223074932204",
+        "urn:sfpl:31223074932006",
+        "urn:sfpl:31223074932261",
+        "urn:sfpl:31223074932014",
+        "urn:sfpl:31223074932113"
+      ],
+      "publish_date": "July 3, 2006",
+      "oclc_numbers": [
+        "70868190"
+      ],
+      "works": [
+        {
+          "key": "/works/OL2008346W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "We are things of dry hours and the involuntary plan,"
+      },
+      "ocaid": "selectedpoems0000broo",
+      "latest_revision": 12,
+      "revision": 12,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-08-05T01:18:17.000521"
+      },
+      "cover": "OL7283485M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL28176507M": {
+      "publishers": [
+        "Vintage"
+      ],
+      "physical_format": "paperback",
+      "lc_classifications": [
+        "PS3603.H53A6 2019"
+      ],
+      "source_records": [
+        "amazon:1101972084",
+        "bwb:9781101972083"
+      ],
+      "title": "Exhalation",
+      "number_of_pages": 368,
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-16T12:14:06.030811"
+      },
+      "covers": [
+        10113848
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-06-02T16:36:21.272798"
+      },
+      "isbn_13": [
+        "9781101972083"
+      ],
+      "full_title": "Exhalation",
+      "isbn_10": [
+        "1101972084"
+      ],
+      "publish_date": "Jun 30, 2020",
+      "key": "/books/OL28176507M",
+      "authors": [
+        {
+          "key": "/authors/OL1604887A"
+        }
+      ],
+      "latest_revision": 3,
+      "works": [
+        {
+          "key": "/works/OL20149336W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 3,
+      "cover": "OL28176507M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL26743056M": {
+      "publishers": [
+        "Vintage Books"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "Tower of Babylon",
+          "title": "001",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "Understand",
+          "title": "029",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "Division by Zero",
+          "title": "071",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "Story of Your Life",
+          "title": "091",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "Seventy-Two Letters",
+          "title": "147",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "The Evolution of Human Science",
+          "title": "201",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "Hell Is the Absence of God",
+          "title": "205",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "Liking What You See: A Documentary",
+          "title": "237",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "Story Notes",
+          "title": "275",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "Acknowledgments",
+          "title": "283",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "Publication History",
+          "title": "285",
+          "pagenum": ""
+        }
+      ],
+      "contributors": [
+        {
+          "role": "Cover Design",
+          "name": "Joan Wang"
+        },
+        {
+          "role": "Cover Photographs",
+          "name": "day: Multipedia/Shutterstock"
+        },
+        {
+          "role": "Cover Photographs",
+          "name": "night: Peter Wey/Stocksy"
+        }
+      ],
+      "covers": [
+        8885976
+      ],
+      "physical_format": "Trade paperback",
+      "key": "/books/OL26743056M",
+      "publish_places": [
+        "New York, USA"
+      ],
+      "edition_name": "First Vintage Books Edition",
+      "pagination": "285p.",
+      "source_records": [
+        "amazon:1101972122",
+        "bwb:9781101972120"
+      ],
+      "title": "Stories of Your Life and Others",
+      "number_of_pages": 285,
+      "isbn_13": [
+        "9781101972120"
+      ],
+      "publish_date": "2016",
+      "copyright_date": "2016",
+      "works": [
+        {
+          "key": "/works/OL6216050W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "lc_classifications": [
+        "PS3603.H53A6 2016"
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-02-28T00:29:40.102951"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-03T06:47:49.760488"
+      },
+      "cover": "OL26743056M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL27931262M": {
+      "publishers": [
+        "W. W. Norton Company"
+      ],
+      "source_records": [
+        "bwb:9780393609844"
+      ],
+      "title": "Unworthy Republic: The Dispossession of Native Americans and the Road to Indian Territory",
+      "identifiers": {},
+      "isbn_13": [
+        "9780393609844"
+      ],
+      "publish_date": "2020",
+      "key": "/books/OL27931262M",
+      "works": [
+        {
+          "key": "/works/OL20656911W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        10551252
+      ],
+      "lc_classifications": [
+        "E98.R4S38 2020"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-03-24T18:16:29.771656"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-12-29T19:37:05.145989"
+      },
+      "cover": "OL27931262M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL8022730M": {
+      "publishers": [
+        "University Press of Kentucky"
+      ],
+      "number_of_pages": 418,
+      "subtitle": "Anne Braden And the Struggle for Racial Justice in the Cold War South (Civil Rights and the Struggle for Black Equality in the Twentieth Century)",
+      "weight": "1.4 pounds",
+      "isbn_10": [
+        "0813191726"
+      ],
+      "covers": [
+        1539416
+      ],
+      "physical_format": "Paperback",
+      "lc_classifications": [
+        "E185.98.B73F67 2006",
+        "E185.98.B73 F67 2006"
+      ],
+      "key": "/books/OL8022730M",
+      "authors": [
+        {
+          "key": "/authors/OL1479991A"
+        },
+        {
+          "key": "/authors/OL396182A"
+        }
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "ANNE MCCARTY WAS BORN INTO THAT \"Louisville where white folks lived\" on July 28, 1924, at St. Anthony's Hospital."
+      },
+      "source_records": [
+        "bwb:9780813191720",
+        "marc:marc_loc_2016/BooksAll.2016.part33.utf8:108098491:1747"
+      ],
+      "title": "Subversive Southerner",
+      "identifiers": {
+        "goodreads": [
+          "716217"
+        ],
+        "librarything": [
+          "7863100"
+        ]
+      },
+      "isbn_13": [
+        "9780813191720"
+      ],
+      "edition_name": "New Ed edition",
+      "subjects": [
+        "Biography: general",
+        "Human rights",
+        "Southern States",
+        "History",
+        "Civil rights workers",
+        "Women",
+        "Biography / Autobiography",
+        "Sociology",
+        "History: American",
+        "USA",
+        "Historical - U.S.",
+        "Political",
+        "United States - 20th Century",
+        "Women civil rights workers",
+        "Historical - General",
+        "Women, White",
+        "Biography"
+      ],
+      "publish_date": "August 2006",
+      "oclc_numbers": [
+        "68623965"
+      ],
+      "works": [
+        {
+          "key": "/works/OL21005898W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "9.1 x 6.2 x 1.1 inches",
+      "lccn": [
+        "2006013888"
+      ],
+      "latest_revision": 10,
+      "revision": 10,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-07T08:18:51.988756"
+      },
+      "cover": "OL8022730M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL8596091M": {
+      "publishers": [
+        "Lawrence Hill Books"
+      ],
+      "number_of_pages": 320,
+      "subtitle": "An Autobiography (Lawrence Hill & Co.)",
+      "weight": "8.8 ounces",
+      "covers": [
+        777656
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-10T05:30:57.310747"
+      },
+      "latest_revision": 6,
+      "key": "/books/OL8596091M",
+      "authors": [
+        {
+          "key": "/authors/OL1074861A"
+        }
+      ],
+      "contributions": [
+        "Angela Davis (Foreword)"
+      ],
+      "subjects": [
+        "Biography: general",
+        "United States",
+        "Black nationalism",
+        "Biography / Autobiography",
+        "Specific Groups - General",
+        "Biography/Autobiography",
+        "Shakur, Assata",
+        "People of Color",
+        "Women",
+        "Social Science / African-American Studies",
+        "Biography",
+        "African Americans",
+        "Black Panther Party",
+        "Racism"
+      ],
+      "edition_name": "New Ed edition",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "There were lights and sirens."
+      },
+      "title": "Assata",
+      "identifiers": {
+        "goodreads": [
+          "100322"
+        ],
+        "librarything": [
+          "76534"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T06:33:27.187047"
+      },
+      "isbn_13": [
+        "9781556520747"
+      ],
+      "isbn_10": [
+        "1556520743"
+      ],
+      "publish_date": "November 1, 2001",
+      "works": [
+        {
+          "key": "/works/OL4975846W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.9 x 6.1 x 0.9 inches",
+      "revision": 6,
+      "cover": "OL8596091M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL28719411M": {
+      "publishers": [
+        "Beacon Press"
+      ],
+      "subtitle": "The Radiant and Radical Life of Lorraine Hansberry",
+      "source_records": [
+        "bwb:9780807039830"
+      ],
+      "title": "Looking for Lorraine",
+      "number_of_pages": 256,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "full_title": "Looking for Lorraine The Radiant and Radical Life of Lorraine Hansberry",
+      "publish_date": "2019",
+      "key": "/books/OL28719411M",
+      "authors": [
+        {
+          "key": "/authors/OL3287975A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL19753477W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "African american authors",
+        "Civil rights workers",
+        "Dramatists, biography",
+        "Hansberry, lorraine, 1930-1965",
+        "African americans, biography"
+      ],
+      "covers": [
+        11488324
+      ],
+      "identifiers": {},
+      "classifications": {},
+      "physical_format": "Paperback",
+      "isbn_13": [
+        "9780807039830"
+      ],
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-08-13T14:34:36.824256"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-11-08T04:24:23.445728"
+      },
+      "cover": "OL28719411M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL27436872M": {
+      "publishers": [
+        "NYU Press"
+      ],
+      "number_of_pages": 363,
+      "subtitle": "Slave Resistance and the Origins of the United States of America",
+      "covers": [
+        8897033
+      ],
+      "physical_format": "paperback",
+      "full_title": "The Counter-Revolution of 1776 : Slave Resistance and the Origins of the United States of America",
+      "lc_classifications": [
+        "E446.H83 2016"
+      ],
+      "latest_revision": 3,
+      "key": "/books/OL27436872M",
+      "authors": [
+        {
+          "key": "/authors/OL383617A"
+        }
+      ],
+      "source_records": [
+        "amazon:1479806897",
+        "bwb:9781479806898"
+      ],
+      "title": "The Counter-Revolution of 1776",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: The Counter-Revolution of 1776: Slave Resistance and the Origins of the United States of America"
+      },
+      "identifiers": {
+        "amazon": [
+          "1479806897"
+        ]
+      },
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-10-13T11:21:47.308807"
+      },
+      "isbn_13": [
+        "9781479806898"
+      ],
+      "isbn_10": [
+        "1479806897"
+      ],
+      "publish_date": "Sep 01, 2016",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-10-11T06:44:15.882201"
+      },
+      "works": [
+        {
+          "key": "/works/OL17559282W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 3,
+      "cover": "OL27436872M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL8781492M": {
+      "publishers": [
+        "Crossing Press"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "730745"
+        ],
+        "librarything": [
+          "74740"
+        ]
+      },
+      "subtitle": "Essays and Speeches (Crossing Press Feminist Series)",
+      "weight": "10.4 ounces",
+      "isbn_10": [
+        "1580911862"
+      ],
+      "covers": [
+        1940446
+      ],
+      "local_id": [
+        "urn:sfpl:31223075357815",
+        "urn:sfpl:31223122214597",
+        "urn:sfpl:31223122214589",
+        "urn:sfpl:31223125689381",
+        "urn:sfpl:31223125689399",
+        "urn:sfpl:31223093978774",
+        "urn:sfpl:31223075357781",
+        "urn:sfpl:31223075357773",
+        "urn:cst:10017048132"
+      ],
+      "physical_format": "Paperback",
+      "lc_classifications": [
+        "PS3562.O75S5 2007",
+        "PS3562.O75 S5 2007"
+      ],
+      "key": "/books/OL8781492M",
+      "authors": [
+        {
+          "key": "/authors/OL278850A"
+        }
+      ],
+      "contributions": [
+        "Cheryl Clarke (Foreword)"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "The flight to Moscow was nine hours long, and from my observations on the plane, Russians are generally as unfriendly to each other as Americans are and just about as unhelpful."
+      },
+      "source_records": [
+        "amazon:1580911862:fr:775418274:290097",
+        "marc:marc_loc_updates/v36.i08.records.utf8:15080446:751",
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run03.mrc:221019923:3788",
+        "marc:marc_claremont_school_theology/CSTMARC2_barcode.mrc:58602434:3972",
+        "bwb:9781580911863",
+        "marc:marc_loc_2016/BooksAll.2016.part36.utf8:55049890:751",
+        "marc:marc_claremont_school_theology/CSTMARC2_multibarcode.mrc:58629091:3972",
+        "ia:sisteroutsideres0000lord"
+      ],
+      "title": "Sister Outsider",
+      "number_of_pages": 190,
+      "isbn_13": [
+        "9781580911863"
+      ],
+      "edition_name": "Reprint edition",
+      "subjects": [
+        "African American Literature",
+        "Lorde, Audre - Poems & Criticism",
+        "Literary Collections",
+        "Nonfiction",
+        "Literature: Classics",
+        "Essays",
+        "Lesbian Studies",
+        "American - African American",
+        "Feminism & Feminist Theory"
+      ],
+      "publish_date": "August 2007",
+      "works": [
+        {
+          "key": "/works/OL2191789W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8.9 x 5.9 x 0.6 inches",
+      "lccn": [
+        "2008540402"
+      ],
+      "ocaid": "sisteroutsideres0000lord",
+      "latest_revision": 14,
+      "revision": 14,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T08:14:56.482104"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-02-12T06:42:46.135908"
+      },
+      "cover": "OL8781492M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL27258155M": {
+      "publishers": [
+        "Verso"
+      ],
+      "number_of_pages": 320,
+      "source_records": [
+        "amazon:1786636727",
+        "bwb:9781786636720"
+      ],
+      "title": "Our History Is the Future",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {
+        "amazon": [
+          "1786636727"
+        ]
+      },
+      "covers": [
+        8750451
+      ],
+      "publish_date": "Mar 05, 2019",
+      "key": "/books/OL27258155M",
+      "authors": [
+        {
+          "key": "/authors/OL7618257A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL20078142W"
+        }
+      ],
+      "physical_format": "hardcover",
+      "isbn_10": [
+        "1786636727"
+      ],
+      "isbn_13": [
+        "9781786636720"
+      ],
+      "classifications": {},
+      "subtitle": "Standing Rock Versus the Dakota Access Pipeline, and the Long Tradition of Indigenous Resistance",
+      "lc_classifications": [
+        "E99.D1E87 2019"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-08-05T21:50:48.861684"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-03T21:32:35.460971"
+      },
+      "cover": "OL27258155M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL31982930M": {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "We Are Not Broken",
+      "authors": [
+        {
+          "key": "/authors/OL7838845A"
+        }
+      ],
+      "publish_date": "Sep 07, 2021",
+      "source_records": [
+        "amazon:0759554609",
+        "bwb:9780759554603"
+      ],
+      "number_of_pages": 320,
+      "publishers": [
+        "Little, Brown Books for Young Readers"
+      ],
+      "isbn_10": [
+        "0759554609"
+      ],
+      "isbn_13": [
+        "9780759554603"
+      ],
+      "physical_format": "hardcover",
+      "full_title": "We Are Not Broken",
+      "covers": [
+        10657378
+      ],
+      "works": [
+        {
+          "key": "/works/OL24209458W"
+        }
+      ],
+      "key": "/books/OL31982930M",
+      "lc_classifications": [
+        "HQ76.27.A37J646 2021"
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-02-23T14:05:22.926641"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-08-03T18:25:52.708875"
+      },
+      "cover": "OL31982930M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL28033076M": {
+      "publishers": [
+        "Farrar, Straus & Giroux"
+      ],
+      "source_records": [
+        "bwb:9780374312718"
+      ],
+      "title": "All Boys Aren't Blue",
+      "number_of_pages": 288,
+      "isbn_13": [
+        "9780374312718"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lc_classifications": [
+        "HQ76.27.A37J644 2020"
+      ],
+      "publish_date": "2020",
+      "key": "/books/OL28033076M",
+      "authors": [
+        {
+          "key": "/authors/OL7838845A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL20728338W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Sociology"
+      ],
+      "covers": [
+        11305725
+      ],
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-05-12T01:02:33.835439"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-06-26T22:51:29.990843"
+      },
+      "cover": "OL28033076M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL27169917M": {
+      "table_of_contents": [
+        {
+          "level": 0,
+          "label": "",
+          "title": "Sexism and the black female slave experience",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Continued devaluation of black womanhood",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "The imperialism of patriarchy",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Racism and feminism: the issue of accountability",
+          "pagenum": ""
+        },
+        {
+          "level": 0,
+          "label": "",
+          "title": "Black women and feminism.",
+          "pagenum": ""
+        }
+      ],
+      "description": {
+        "type": "/type/text",
+        "value": "\"A classic work of feminist scholarship, Ain't I a Woman has become a must-read for all those interested in the nature of Black womanhood. Examining the impact of sexism on Black women during slavery, the devaluation of Back womanhood, Black male sexism, racism among feminists, and the Black woman's involvement with feminism, hooks attempts to move us beyond racist and sexist assumptions. The result is nothing short of groundbreaking, giving this book a critical place on every feminist scholar's bookshelf. \"--"
+      },
+      "local_id": [
+        "urn:sfpl:31223108759243",
+        "urn:sfpl:31223108759268",
+        "urn:sfpl:31223108742074",
+        "urn:sfpl:31223108742082",
+        "urn:sfpl:31223108742066",
+        "urn:sfpl:31223116704462",
+        "urn:sfpl:31223116704470",
+        "urn:sfpl:31223116704454",
+        "urn:sfpl:31223108759284",
+        "urn:sfpl:31223108759292",
+        "urn:sfpl:31223108759300"
+      ],
+      "full_title": "Ain't I a woman Black women and feminism",
+      "lc_classifications": [
+        "E185.86 .H73 2015",
+        "E185.86.H73 2014"
+      ],
+      "latest_revision": 5,
+      "key": "/books/OL27169917M",
+      "authors": [
+        {
+          "key": "/authors/OL2631291A"
+        }
+      ],
+      "subtitle": "Black women and feminism",
+      "subjects": [
+        "Social conditions",
+        "African American women",
+        "Feminism",
+        "Sexism"
+      ],
+      "isbn_13": [
+        "9781138821484",
+        "9781138821514"
+      ],
+      "pagination": "xiv, 205 pages",
+      "source_records": [
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run05.mrc:110105970:4622",
+        "bwb:9781138821484",
+        "bwb:9781138821514",
+        "marc:marc_loc_2016/BooksAll.2016.part41.utf8:173394440:1857"
+      ],
+      "title": "Ain't I a woman",
+      "lccn": [
+        "2014022890"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "First edition published by South End Press, 1981.\n\nIncludes bibliographical references and index."
+      },
+      "number_of_pages": 205,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-18T16:55:40.111338"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "dewey_decimal_class": [
+        "305.48/896073"
+      ],
+      "subject_places": [
+        "United States"
+      ],
+      "isbn_10": [
+        "1138821489",
+        "1138821519"
+      ],
+      "publish_date": "2015",
+      "publish_country": "nyu",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-11-13T01:25:06.433305"
+      },
+      "by_statement": "bell hooks",
+      "oclc_numbers": [
+        "979843436",
+        "886381091"
+      ],
+      "works": [
+        {
+          "key": "/works/OL19989803W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 5,
+      "cover": null,
+      "source": "open-library"
+    },
+    "/books/OL28151133M": {
+      "publishers": [
+        "The New Press"
+      ],
+      "subtitle": "Mass Incarceration in the Age of Colorblindness",
+      "covers": [
+        10091746
+      ],
+      "physical_format": "paperback",
+      "full_title": "The New Jim Crow Mass Incarceration in the Age of Colorblindness",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-08-24T06:12:26.392732"
+      },
+      "latest_revision": 3,
+      "key": "/books/OL28151133M",
+      "authors": [
+        {
+          "key": "/authors/OL7932828A"
+        }
+      ],
+      "source_records": [
+        "amazon:1620971933",
+        "bwb:9781620971932"
+      ],
+      "title": "The New Jim Crow",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: The New Jim Crow: Mass Incarceration in the Age of Colorblindness"
+      },
+      "number_of_pages": 352,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-05-28T16:27:19.298367"
+      },
+      "isbn_13": [
+        "9781620971932"
+      ],
+      "isbn_10": [
+        "1620971933"
+      ],
+      "publish_date": "Jan 07, 2020",
+      "works": [
+        {
+          "key": "/works/OL13826369W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 3,
+      "cover": "OL28151133M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL26372777M": {
+      "publishers": [
+        "City Lights Books"
+      ],
+      "classifications": {},
+      "contributors": [
+        {
+          "role": "Editor",
+          "name": "Toni Morrison"
+        },
+        {
+          "role": "Foreword",
+          "name": "Elaine Brown"
+        }
+      ],
+      "source_records": [
+        "bwb:9780872865297"
+      ],
+      "title": "To Die for the People",
+      "identifiers": {},
+      "covers": [
+        8061168
+      ],
+      "isbn_13": [
+        "9780872865297"
+      ],
+      "lc_classifications": [
+        "E185.615.N4 2009"
+      ],
+      "publish_date": "2009",
+      "key": "/books/OL26372777M",
+      "publish_places": [
+        "San Francisco, USA"
+      ],
+      "works": [
+        {
+          "key": "/works/OL3110336W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 6,
+      "revision": 6,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2017-09-08T20:51:34.177040"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-12-16T08:42:25.478018"
+      },
+      "cover": "OL26372777M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL28158450M": {
+      "publishers": [
+        "Vintage"
+      ],
+      "subtitle": "First-Person Stories from the Twenty-First Century",
+      "covers": [
+        10098209
+      ],
+      "physical_format": "paperback",
+      "full_title": "Disability Visibility : First-Person Stories from the Twenty-First Century",
+      "key": "/books/OL28158450M",
+      "authors": [
+        {
+          "key": "/authors/OL2854873A"
+        }
+      ],
+      "source_records": [
+        "amazon:1984899422",
+        "bwb:9781984899422"
+      ],
+      "title": "Disability Visibility",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Disability Visibility: First-Person Stories from the Twenty-First Century"
+      },
+      "number_of_pages": 336,
+      "isbn_13": [
+        "9781984899422"
+      ],
+      "isbn_10": [
+        "1984899422"
+      ],
+      "publish_date": "Jun 30, 2020",
+      "works": [
+        {
+          "key": "/works/OL20801210W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "lc_classifications": [
+        "HV1552.3.D57 2020"
+      ],
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-05-30T03:12:51.992456"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-09-21T14:27:10.190811"
+      },
+      "cover": "OL28158450M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL28298817M": {
+      "publishers": [
+        "Verso"
+      ],
+      "subtitle": "Building Solidarity During This Crisis",
+      "covers": [
+        10224051
+      ],
+      "physical_format": "paperback",
+      "full_title": "Mutual Aid Building Solidarity During This Crisis",
+      "key": "/books/OL28298817M",
+      "authors": [
+        {
+          "key": "/authors/OL6988256A"
+        }
+      ],
+      "source_records": [
+        "amazon:1839762128",
+        "bwb:9781839762123"
+      ],
+      "title": "Mutual Aid",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Mutual Aid: Building Solidarity During This Crisis (and the Next)"
+      },
+      "number_of_pages": 128,
+      "isbn_13": [
+        "9781839762123"
+      ],
+      "isbn_10": [
+        "1839762128"
+      ],
+      "publish_date": "Oct 27, 2020",
+      "works": [
+        {
+          "key": "/works/OL20892439W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-07-01T01:17:41.091881"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-18T01:08:07.483319"
+      },
+      "cover": "OL28298817M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL3395333M": {
+      "publishers": [
+        "Signet Classics"
+      ],
+      "number_of_pages": 144,
+      "subtitle": "an American slave",
+      "ia_box_id": [
+        "IA176001"
+      ],
+      "isbn_10": [
+        "0451529944"
+      ],
+      "subject_place": [
+        "United States"
+      ],
+      "pagination": "xiv, 144 p. ;",
+      "covers": [
+        295851
+      ],
+      "ia_loaded_id": [
+        "narrativeoflifeo00doug_0"
+      ],
+      "lc_classifications": [
+        "E449 .D749 2005",
+        "E449.D749 2005"
+      ],
+      "key": "/books/OL3395333M",
+      "authors": [
+        {
+          "key": "/authors/OL2641167A"
+        }
+      ],
+      "ocaid": "narrativeoflifeo00doug_0",
+      "publish_places": [
+        "New York"
+      ],
+      "subjects": [
+        "Douglass, Frederick, 1818-1895",
+        "Abolitionists -- United States -- Biography",
+        "African American abolitionists -- Biography",
+        "Slaves -- United States -- Biography"
+      ],
+      "genres": [
+        "Biography."
+      ],
+      "source_records": [
+        "marc:marc_records_scriblio_net/part15.dat:113930682:932",
+        "marc:marc_loc_updates/v37.i06.records.utf8:3816510:930",
+        "ia:narrativeoflifeo00doug_0",
+        "marc:marc_loc_updates/v40.i08.records.utf8:6935373:1151",
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run03.mrc:148824815:4068",
+        "bwb:9780451529947",
+        "marc:marc_loc_2016/BooksAll.2016.part32.utf8:125157509:1151"
+      ],
+      "title": "Narrative of the life of Frederick Douglass",
+      "dewey_decimal_class": [
+        "973.8/092",
+        "B"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references (p. [141]-144)."
+      },
+      "identifiers": {
+        "librarything": [
+          "250"
+        ],
+        "goodreads": [
+          "36532"
+        ]
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lccn": [
+        "2005006971"
+      ],
+      "local_id": [
+        "urn:sfpl:31223096356713",
+        "urn:sfpl:31223118788752",
+        "urn:sfpl:31223072398192",
+        "urn:sfpl:31223118788737",
+        "urn:sfpl:31223118788745",
+        "urn:sfpl:31223118788729",
+        "urn:sfpl:31223118788778",
+        "urn:sfpl:31223118788695",
+        "urn:sfpl:31223118788760",
+        "urn:sfpl:31223118788711",
+        "urn:sfpl:31223118788703"
+      ],
+      "publish_date": "2005",
+      "publish_country": "nyu",
+      "by_statement": "written by himself ; with an introduction by Peter J. Gomes and a new afterword by Gregory Stephens.",
+      "oclc_numbers": [
+        "58526682"
+      ],
+      "works": [
+        {
+          "key": "/works/OL69181W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 18,
+      "revision": 18,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-01T03:28:50.625462"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-12-11T05:49:19.539922"
+      },
+      "cover": "OL3395333M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL29524832M": {
+      "publishers": [
+        "Bloomsbury Publishing Plc"
+      ],
+      "source_records": [
+        "bwb:9781501355547"
+      ],
+      "title": "Sam Cooke's Live at the Harlem Square Club 1963",
+      "number_of_pages": 152,
+      "isbn_13": [
+        "9781501355547"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "lc_classifications": [
+        "",
+        "ML420.C665F54 2021"
+      ],
+      "publish_date": "2021",
+      "key": "/books/OL29524832M",
+      "authors": [
+        {
+          "key": "/authors/OL3542009A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL21698842W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-08-26T17:30:47.762573"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-07T18:52:41.188274"
+      },
+      "cover": null,
+      "source": "open-library"
+    },
+    "/books/OL25138677M": {
+      "publishers": [
+        "Continuum"
+      ],
+      "isbn_10": [
+        "1441148884"
+      ],
+      "series": [
+        "33 1/3",
+        "33 1/3"
+      ],
+      "full_title": "Amazing grace",
+      "lc_classifications": [
+        "ML420.F778 C64 2011"
+      ],
+      "latest_revision": 5,
+      "key": "/books/OL25138677M",
+      "authors": [
+        {
+          "key": "/authors/OL4886373A"
+        }
+      ],
+      "publish_places": [
+        "New York"
+      ],
+      "isbn_13": [
+        "9781441148889"
+      ],
+      "pagination": "vii, 166 p. :",
+      "source_records": [
+        "marc:marc_loc_updates/v39.i51.records.utf8:20550429:798",
+        "marc:marc_loc_updates/v39.i52.records.utf8:53900119:798",
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run04.mrc:200143740:2770",
+        "marc:marc_loc_2016/BooksAll.2016.part38.utf8:187752757:798"
+      ],
+      "title": "Amazing grace",
+      "lccn": [
+        "2011022487"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Includes bibliographical references (p. 161-166)."
+      },
+      "number_of_pages": 166,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2011-12-28T10:59:43.851424"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "dewey_decimal_class": [
+        "782.421644092"
+      ],
+      "local_id": [
+        "urn:sfpl:31223094861987",
+        "urn:sfpl:31223094861888"
+      ],
+      "subject_people": [
+        "Aretha Franklin"
+      ],
+      "publish_country": "nyu",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-09-25T11:22:42.932202"
+      },
+      "publish_date": "2011",
+      "by_statement": "Aaron Cohen",
+      "oclc_numbers": [
+        "657604862"
+      ],
+      "works": [
+        {
+          "key": "/works/OL16360787W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 5,
+      "cover": null,
+      "source": "open-library"
+    },
+    "/books/OL33287485M": {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "The Red Deal",
+      "authors": [
+        {
+          "key": "/authors/OL9440254A"
+        }
+      ],
+      "publish_date": "Apr 20, 2021",
+      "source_records": [
+        "amazon:1942173431",
+        "bwb:9781942173434"
+      ],
+      "number_of_pages": 144,
+      "publishers": [
+        "Common Notions"
+      ],
+      "isbn_10": [
+        "1942173431"
+      ],
+      "isbn_13": [
+        "9781942173434"
+      ],
+      "physical_format": "paperback",
+      "full_title": "The Red Deal : Indigenous Action to Save Our Earth",
+      "subtitle": "Indigenous Action to Save Our Earth",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: The Red Deal: Indigenous Action to Save Our Earth"
+      },
+      "covers": [
+        11947731
+      ],
+      "works": [
+        {
+          "key": "/works/OL25035617W"
+        }
+      ],
+      "key": "/books/OL33287485M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-09-12T22:43:21.722082"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-09-30T10:14:41.552282"
+      },
+      "cover": "OL33287485M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL8789611M": {
+      "publishers": [
+        "Seven Stories Press"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "108428"
+        ],
+        "librarything": [
+          "69174"
+        ]
+      },
+      "weight": "4.2 ounces",
+      "isbn_10": [
+        "1583225811"
+      ],
+      "covers": [
+        10129501,
+        846838
+      ],
+      "physical_format": "Paperback",
+      "lc_classifications": [
+        "HV9276.5",
+        "HV9471 .D375 2003"
+      ],
+      "key": "/books/OL8789611M",
+      "authors": [
+        {
+          "key": "/authors/OL396182A"
+        }
+      ],
+      "ocaid": "areprisonsobsole00davi",
+      "subjects": [
+        "POLITICS & GOVERNMENT",
+        "Penology & punishment",
+        "Penology",
+        "Prison Systems",
+        "Social Science",
+        "Politics / Current Events",
+        "Sociology",
+        "USA",
+        "Political Freedom & Security - Law Enforcement",
+        "History / United States / 20th Century",
+        "Alternatives to imprisonment",
+        "Criminals",
+        "Prisons",
+        "Rehabilitation",
+        "United States"
+      ],
+      "isbn_13": [
+        "9781583225813"
+      ],
+      "source_records": [
+        "amazon:1583225811:fr:3039580761:265452",
+        "marc:marc_loc_updates/v35.i23.records.utf8:10764715:1074",
+        "marc:marc_ithaca_college/ic_marc.mrc:218037104:930",
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run03.mrc:217033904:3153",
+        "marc:marc_marygrove/marygrovecollegelibrary.full.D20191108.T213022.internetarchive2nd_REPACK.mrc:153178876:4832",
+        "ia:areprisonsobsole0000davi",
+        "bwb:9781583225813",
+        "marc:marc_loc_2016/BooksAll.2016.part33.utf8:169453157:1074"
+      ],
+      "title": "Are Prisons Obsolete?",
+      "number_of_pages": 128,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "local_id": [
+        "urn:sfpl:31223075305756",
+        "urn:sfpl:31223107901507",
+        "urn:sfpl:31223112158325",
+        "urn:sfpl:31223107901549",
+        "urn:mgc:31927002091970"
+      ],
+      "publish_date": "April 2003",
+      "works": [
+        {
+          "key": "/works/OL2709370W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "6.9 x 4.8 x 0.3 inches",
+      "lccn": [
+        "2006281923"
+      ],
+      "latest_revision": 16,
+      "revision": 16,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T08:14:56.482104"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-12-14T09:57:28.631424"
+      },
+      "cover": "OL8789611M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL32007786M": {
+      "works": [
+        {
+          "key": "/works/OL24217442W"
+        }
+      ],
+      "title": "Virtue Hoarders",
+      "publishers": [
+        "University Of Minnesota Press"
+      ],
+      "publish_date": "2021",
+      "key": "/books/OL32007786M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {},
+      "covers": [
+        10675199
+      ],
+      "isbn_13": [
+        "9781517912253"
+      ],
+      "classifications": {},
+      "subtitle": "The Case Against the Professional Managerial Class",
+      "source_records": [
+        "bwb:9781517912253"
+      ],
+      "latest_revision": 4,
+      "revision": 4,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-03-05T12:59:06.551458"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-09-22T03:21:33.684293"
+      },
+      "cover": "OL32007786M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL31861187M": {
+      "type": {
+        "key": "/type/edition"
+      },
+      "title": "Trans Care",
+      "authors": [
+        {
+          "key": "/authors/OL9084266A"
+        }
+      ],
+      "publish_date": "Sep 01, 2020",
+      "source_records": [
+        "amazon:1517911184",
+        "bwb:9781517911188"
+      ],
+      "number_of_pages": 72,
+      "publishers": [
+        "Univ Of Minnesota Press"
+      ],
+      "physical_format": "paperback",
+      "notes": "Source title: Trans Care (Forerunners: Ideas First)",
+      "covers": [
+        10546494
+      ],
+      "works": [
+        {
+          "key": "/works/OL24147437W"
+        }
+      ],
+      "key": "/books/OL31861187M",
+      "identifiers": {},
+      "isbn_10": [
+        "1517911184"
+      ],
+      "isbn_13": [
+        "9781517911188"
+      ],
+      "classifications": {},
+      "latest_revision": 3,
+      "revision": 3,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-01-14T23:54:03.803305"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-11-08T23:04:03.905949"
+      },
+      "cover": "OL31861187M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL29506549M": {
+      "publishers": [
+        "Penguin Books, Limited"
+      ],
+      "source_records": [
+        "bwb:9780241472361"
+      ],
+      "title": "Ain't I a Woman?",
+      "number_of_pages": 128,
+      "isbn_13": [
+        "9780241472361"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "full_title": "Ain't I a Woman?",
+      "lc_classifications": [
+        ""
+      ],
+      "publish_date": "2020",
+      "key": "/books/OL29506549M",
+      "authors": [
+        {
+          "key": "/authors/OL2658871A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL21689327W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-08-26T13:17:26.983528"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-06-20T18:23:15.926968"
+      },
+      "cover": null,
+      "source": "open-library"
+    },
+    "/books/OL27569196M": {
+      "publishers": [
+        "Haymarket Books"
+      ],
+      "identifiers": {
+        "amazon": [
+          "1608461823"
+        ]
+      },
+      "subtitle": "A Short History 1910-1920",
+      "covers": [
+        9024229
+      ],
+      "physical_format": "paperback",
+      "full_title": "The Mexican Revolution A Short History 1910-1920",
+      "lc_classifications": [
+        "F1234",
+        "F1234 .E16 2012"
+      ],
+      "latest_revision": 4,
+      "key": "/books/OL27569196M",
+      "authors": [
+        {
+          "key": "/authors/OL7716816A"
+        }
+      ],
+      "source_records": [
+        "amazon:1608461823",
+        "bwb:9781608461820",
+        "marc:marc_loc_2016/BooksAll.2016.part39.utf8:218689778:755"
+      ],
+      "title": "The Mexican Revolution",
+      "lccn": [
+        "2012038497"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: The Mexican Revolution: A Short History 1910-1920"
+      },
+      "number_of_pages": 180,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-10-26T23:38:39.589280"
+      },
+      "isbn_13": [
+        "9781608461820"
+      ],
+      "isbn_10": [
+        "1608461823"
+      ],
+      "publish_date": "Feb 05, 2013",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-10-18T04:13:53.863046"
+      },
+      "works": [
+        {
+          "key": "/works/OL20357602W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 4,
+      "cover": "OL27569196M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL28736581M": {
+      "publishers": [
+        "Haymarket Books"
+      ],
+      "identifiers": {},
+      "subtitle": "Ferguson, Palestine, and the Foundations of a Movement",
+      "contributors": [
+        {
+          "role": "Editor",
+          "name": "Frank Barat"
+        },
+        {
+          "role": "Preface",
+          "name": "Cornel West"
+        }
+      ],
+      "covers": [
+        10352183
+      ],
+      "physical_format": "Paperback",
+      "lc_classifications": [
+        "JC571"
+      ],
+      "latest_revision": 4,
+      "key": "/books/OL28736581M",
+      "classifications": {},
+      "source_records": [
+        "bwb:9781608465644"
+      ],
+      "title": "Freedom is a Constant Struggle",
+      "number_of_pages": 176,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-08-14T00:22:19.658109"
+      },
+      "isbn_13": [
+        "9781608465644"
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-10-11T00:56:32.231789"
+      },
+      "publish_date": "2015",
+      "works": [
+        {
+          "key": "/works/OL21221592W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 4,
+      "cover": "OL28736581M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL27097459M": {
+      "publishers": [
+        "Haymarket Books"
+      ],
+      "source_records": [
+        "amazon:1608464660",
+        "bwb:9781608464661"
+      ],
+      "title": "Men Explain Things to Me",
+      "number_of_pages": 176,
+      "covers": [
+        8737401
+      ],
+      "isbn_13": [
+        "9781608464661"
+      ],
+      "full_title": "Men Explain Things to Me",
+      "isbn_10": [
+        "1608464660"
+      ],
+      "publish_date": "Sep 01, 2015",
+      "key": "/books/OL27097459M",
+      "authors": [
+        {
+          "key": "/authors/OL22530A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL17359118W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "lc_classifications": [
+        "HQ1155.S667 2014"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-09T03:50:18.384145"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-12-22T08:23:59.885431"
+      },
+      "cover": "OL27097459M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL30542041M": {
+      "publishers": [
+        "Haymarket Books"
+      ],
+      "subtitle": "Pandemic, Policing, Protest and Possibility",
+      "covers": [
+        10467926
+      ],
+      "physical_format": "paperback",
+      "full_title": "We Still Here Pandemic, Policing, Protest and Possibility",
+      "key": "/books/OL30542041M",
+      "authors": [
+        {
+          "key": "/authors/OL3619755A"
+        },
+        {
+          "key": "/authors/OL7082789A"
+        },
+        {
+          "key": "/authors/OL7526541A"
+        }
+      ],
+      "source_records": [
+        "amazon:1642594539",
+        "bwb:9781642594539"
+      ],
+      "title": "We Still Here",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: We Still Here: Pandemic, Policing, Protest and Possibility"
+      },
+      "number_of_pages": 128,
+      "isbn_13": [
+        "9781642594539"
+      ],
+      "isbn_10": [
+        "1642594539"
+      ],
+      "publish_date": "Nov 10, 2020",
+      "works": [
+        {
+          "key": "/works/OL22471540W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-10-05T14:22:48.947550"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-09-30T16:30:47.338212"
+      },
+      "cover": "OL30542041M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL26935202M": {
+      "table_of_contents": [
+        {
+          "level": 0,
+          "title": "The Combahee River Collective Statement --",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Barbara Smith --",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Beverly Smith --",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Demita Frazier --",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Alicia Garza --",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        },
+        {
+          "level": 0,
+          "title": "Comments by Barbara Ransby.",
+          "type": {
+            "key": "/type/toc_item"
+          }
+        }
+      ],
+      "local_id": [
+        "urn:sfpl:31223129548690",
+        "urn:sfpl:31223129548708",
+        "urn:sfpl:31223124750010",
+        "urn:sfpl:31223129548732",
+        "urn:sfpl:31223123686587",
+        "urn:sfpl:31223129548716",
+        "urn:sfpl:31223129548724"
+      ],
+      "key": "/books/OL26935202M",
+      "authors": [
+        {
+          "key": "/authors/OL7526541A"
+        }
+      ],
+      "subtitle": "black feminism and the Combahee River Collective",
+      "pagination": "191 pages",
+      "source_records": [
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run06.mrc:50050551:4181",
+        "bwb:9781608468553"
+      ],
+      "title": "How we get free",
+      "notes": "Includes bibliographical references.",
+      "number_of_pages": 191,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "subjects": [
+        "Social conditions",
+        "Combahee River Collective",
+        "Feminism",
+        "African American women",
+        "History"
+      ],
+      "publish_date": "2017",
+      "publish_country": "ilu",
+      "by_statement": "edited and introduced by Keeanga-Yamahtta Taylor",
+      "works": [
+        {
+          "key": "/works/OL19722079W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        11488331
+      ],
+      "identifiers": {},
+      "isbn_10": [
+        "1608468550"
+      ],
+      "isbn_13": [
+        "9781608468553"
+      ],
+      "oclc_numbers": [
+        "975027867"
+      ],
+      "classifications": {},
+      "lc_classifications": [
+        "HQ1163"
+      ],
+      "physical_format": "Paperback",
+      "publishers": [
+        "Haymarket Books"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-05-24T00:27:53.287612"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-07-23T17:20:52.887527"
+      },
+      "cover": "OL26935202M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL28252569M": {
+      "publishers": [
+        "Arcade"
+      ],
+      "subtitle": "Four Speeches",
+      "covers": [
+        10182350
+      ],
+      "physical_format": "paperback",
+      "full_title": "The End of White World Supremacy Four Speeches",
+      "lc_classifications": [
+        "E185.61"
+      ],
+      "latest_revision": 3,
+      "key": "/books/OL28252569M",
+      "authors": [
+        {
+          "key": "/authors/OL5936620A"
+        },
+        {
+          "key": "/authors/OL7978311A"
+        }
+      ],
+      "source_records": [
+        "amazon:1628728299",
+        "bwb:9781628728293"
+      ],
+      "title": "The End of White World Supremacy",
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: The End of White World Supremacy: Four Speeches"
+      },
+      "number_of_pages": 168,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-06-14T05:29:04.666544"
+      },
+      "isbn_13": [
+        "9781628728293"
+      ],
+      "isbn_10": [
+        "1628728299"
+      ],
+      "publish_date": "Feb 11, 2020",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-10-11T11:49:40.178793"
+      },
+      "works": [
+        {
+          "key": "/works/OL20865104W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 3,
+      "cover": "OL28252569M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL27183025M": {
+      "publishers": [
+        "Haymarket Books"
+      ],
+      "subtitle": "a radical alternative to capitalist catastrophe",
+      "isbn_10": [
+        "1608464717"
+      ],
+      "local_id": [
+        "urn:sfpl:31223113497128"
+      ],
+      "lc_classifications": [
+        "HX550.E25 L6913 2015",
+        "HC79.E5"
+      ],
+      "key": "/books/OL27183025M",
+      "authors": [
+        {
+          "key": "/authors/OL228242A"
+        }
+      ],
+      "publish_places": [
+        "Chicago, Illinois"
+      ],
+      "isbn_13": [
+        "9781608464715"
+      ],
+      "pagination": "xv, 120 pages",
+      "source_records": [
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run05.mrc:179897784:2019",
+        "bwb:9781608464715"
+      ],
+      "title": "Ecosocialism",
+      "work_titles": [
+        "Écosocialisme"
+      ],
+      "notes": {
+        "type": "/type/text",
+        "value": "Translated from the French.\n\nIncludes bibliographical references and index."
+      },
+      "number_of_pages": 120,
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "dewey_decimal_class": [
+        "363.7/0561"
+      ],
+      "subjects": [
+        "Communism and ecology",
+        "Environmental aspects",
+        "Ecology",
+        "Socialism",
+        "Capitalism"
+      ],
+      "publish_date": "2015",
+      "publish_country": "ilu",
+      "by_statement": "Michael Löwy",
+      "oclc_numbers": [
+        "892163931"
+      ],
+      "works": [
+        {
+          "key": "/works/OL20002925W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-07-18T22:28:27.250792"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-09-18T21:31:09.781752"
+      },
+      "cover": null,
+      "source": "open-library"
+    },
+    "/books/OL32014582M": {
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Hood Feminism: Notes from the Women That a Movement Forgot"
+      },
+      "title": "Hood Feminism",
+      "subtitle": "Notes from the Women That a Movement Forgot",
+      "authors": [
+        {
+          "key": "/authors/OL7940900A"
+        }
+      ],
+      "publish_date": "Feb 23, 2021",
+      "type": {
+        "key": "/type/edition"
+      },
+      "source_records": [
+        "amazon:0525560564",
+        "bwb:9780525560562"
+      ],
+      "publishers": [
+        "Penguin Books"
+      ],
+      "physical_format": "paperback",
+      "full_title": "Hood Feminism Notes from the Women That a Movement Forgot",
+      "covers": [
+        10681161
+      ],
+      "isbn_10": [
+        "0525560564"
+      ],
+      "isbn_13": [
+        "9780525560562"
+      ],
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "My grandmother would not have described herself as a feminist."
+      },
+      "key": "/books/OL32014582M",
+      "number_of_pages": 288,
+      "works": [
+        {
+          "key": "/works/OL20652336W"
+        }
+      ],
+      "lc_classifications": [
+        "E185.86.K46 2021"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-03-08T12:17:43.524711"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-09-30T12:00:00.368735"
+      },
+      "cover": "OL32014582M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL35561270M": {
+      "type": {
+        "key": "/type/edition"
+      },
+      "authors": [
+        {
+          "key": "/authors/OL7303591A"
+        },
+        {
+          "key": "/authors/OL1482336A"
+        }
+      ],
+      "isbn_13": [
+        "9781839764073"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "pagination": "192",
+      "publish_date": "2021",
+      "publishers": [
+        "Verso Books"
+      ],
+      "source_records": [
+        "bwb:9781839764073"
+      ],
+      "title": "Darkwater",
+      "weight": "0.369",
+      "subtitle": "Voices from Within the Veil",
+      "full_title": "Darkwater Voices from Within the Veil",
+      "works": [
+        {
+          "key": "/works/OL25330813W"
+        }
+      ],
+      "key": "/books/OL35561270M",
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-11-03T05:25:15.146702"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-03-28T06:08:21.865767"
+      },
+      "cover": null,
+      "source": "open-library"
+    },
+    "/books/OL30197695M": {
+      "publishers": [
+        "Penguin Publishing Group"
+      ],
+      "source_records": [
+        "bwb:9780143135203"
+      ],
+      "title": "Cancer Journals",
+      "number_of_pages": 96,
+      "isbn_13": [
+        "9780143135203"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "full_title": "Cancer Journals",
+      "lc_classifications": [
+        "",
+        "RC280.B8L58 2020"
+      ],
+      "publish_date": "2020",
+      "key": "/books/OL30197695M",
+      "authors": [
+        {
+          "key": "/authors/OL278850A"
+        },
+        {
+          "key": "/authors/OL7795224A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL2191767W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "covers": [
+        10544146
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-09-16T12:45:00.608281"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-07-10T16:40:19.205682"
+      },
+      "cover": "OL30197695M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL32812737M": {
+      "works": [
+        {
+          "key": "/works/OL17201654W"
+        }
+      ],
+      "title": "Between the World and Me",
+      "publishers": [
+        "Spiegel & Grau"
+      ],
+      "publish_date": "2015",
+      "key": "/books/OL32812737M",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {
+        "goodreads": [
+          "58572469"
+        ]
+      },
+      "covers": [
+        11445546
+      ],
+      "classifications": {},
+      "copyright_date": "2015",
+      "notes": "USA/CAN",
+      "pagination": "152p.",
+      "physical_format": "Hardcover",
+      "number_of_pages": 152,
+      "publish_places": [
+        "New York"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "edition_name": "printing (10)",
+      "description": "In a profound work that pivots from the biggest questions about American history and ideals to the most intimate concerns of a father for his son, Ta-Nehisi Coates offers a powerful new framework for understanding our nation’s history and current crisis. Americans have built an empire on the idea of “race,” a falsehood that damages us all but falls most heavily on the bodies of black women and men—bodies exploited through slavery and segregation, and, today, threatened, locked up, and murdered out of all proportion. What is it like to inhabit a black body and find a way to live within it? And how can we all honestly reckon with this fraught history and free ourselves from its burden?\r\n\r\nBetween the World and Me is Ta-Nehisi Coates’s attempt to answer these questions in a letter to his adolescent son. Coates shares with his son—and readers—the story of his awakening to the truth about his place in the world through a series of revelatory experiences, from Howard University to Civil War battlefields, from the South Side of Chicago to Paris, from his childhood home to the living rooms of mothers whose children’s lives were taken as American plunder. Beautifully woven from personal narrative, reimagined history, and fresh, emotionally charged reportage, Between the World and Me clearly illuminates the past, bracingly confronts our present, and offers a transcendent vision for a way forward.\r\n\r\n-front flap",
+      "isbn_10": [
+        "0812993543"
+      ],
+      "isbn_13": [
+        "9780812993547"
+      ],
+      "lccn": [
+        "2015008120"
+      ],
+      "oclc_numbers": [
+        "923007023"
+      ],
+      "dewey_decimal_class": [
+        "305.800973"
+      ],
+      "lc_classifications": [
+        "E185.615 .C6335 2015",
+        "E185.615.C6335 2015"
+      ],
+      "source_records": [
+        "bwb:9780812993547"
+      ],
+      "latest_revision": 5,
+      "revision": 5,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-07-17T09:32:44.657377"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-05T13:08:31.272077"
+      },
+      "cover": "OL32812737M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL23108715M": {
+      "notes": {
+        "type": "/type/text",
+        "value": "Originally published: New York : Atria Books, 2004"
+      },
+      "identifiers": {
+        "librarything": [
+          "2102662"
+        ],
+        "goodreads": [
+          "17601"
+        ],
+        "wikidata": [
+          "Q109330044"
+        ]
+      },
+      "title": "The will to change",
+      "subtitle": "men, masculinity, and love",
+      "authors": [
+        {
+          "key": "/authors/OL2631291A"
+        }
+      ],
+      "publish_date": "2005",
+      "other_titles": [
+        "Men, masculinity, and love"
+      ],
+      "publishers": [
+        "Washington Square Press"
+      ],
+      "isbn_10": [
+        "0743456084"
+      ],
+      "covers": [
+        9455438
+      ],
+      "lc_classifications": [
+        "HQ1090 .H65 2004b",
+        "HQ1090"
+      ],
+      "ocaid": "willtochangemen00hook",
+      "publish_places": [
+        "New York"
+      ],
+      "oclc_number": [
+        "57305027"
+      ],
+      "subjects": [
+        "Masculinity",
+        "Men -- Identity",
+        "Self-esteem in men",
+        "Men -- Psychology",
+        "Sex role",
+        "Intimacy (Psychology)"
+      ],
+      "isbn_13": [
+        "9780743456081"
+      ],
+      "pagination": "xvii, 188 p. ;",
+      "source_records": [
+        "marc:SanFranPL16/SanFranPL16.out:48051653:1402",
+        "ia:willtochangemen00hook",
+        "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run03.mrc:282752207:3208",
+        "bwb:9780743456081",
+        "ia:willtochangemenm0000hook"
+      ],
+      "dewey_decimal_class": [
+        "305.31"
+      ],
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "local_id": [
+        "urn:sfpl:31223099619711",
+        "urn:sfpl:31223099548993",
+        "urn:sfpl:31223102556058",
+        "urn:sfpl:31223102556066",
+        "urn:sfpl:31223064006647",
+        "urn:sfpl:31223099619703",
+        "urn:sfpl:31223099619729"
+      ],
+      "publish_country": "nyu",
+      "by_statement": "Bell Hooks.",
+      "type": {
+        "key": "/type/edition"
+      },
+      "key": "/books/OL23108715M",
+      "number_of_pages": 188,
+      "works": [
+        {
+          "key": "/works/OL31119W"
+        }
+      ],
+      "latest_revision": 14,
+      "revision": 14,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2009-02-18T18:27:27.234840"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-03-29T21:07:25.979909"
+      },
+      "cover": "OL23108715M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL27263590M": {
+      "publishers": [
+        "Dial Press, N.Y."
+      ],
+      "classifications": {},
+      "source_records": [
+        "bwb:9780345806567",
+        "ia:giovannisroom0000bald_g2u6"
+      ],
+      "title": "Giovanni's Room",
+      "identifiers": {},
+      "covers": [
+        8753098
+      ],
+      "isbn_10": [
+        "0345806565"
+      ],
+      "publish_date": "1956",
+      "key": "/books/OL27263590M",
+      "works": [
+        {
+          "key": "/works/OL228702W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "ocaid": "giovannisroom0000bald_g2u6",
+      "lc_classifications": [
+        "PS3552.A45 G5 2013"
+      ],
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-08-11T00:47:13.697620"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-10-22T14:52:05.267933"
+      },
+      "cover": "OL27263590M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL22100309M": {
+      "identifiers": {
+        "librarything": [
+          "29457"
+        ],
+        "goodreads": [
+          "464260"
+        ]
+      },
+      "ia_box_id": [
+        "IA178801"
+      ],
+      "covers": [
+        10129157
+      ],
+      "ia_loaded_id": [
+        "firenexttime00bald_0"
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-06-04T12:03:48.425668"
+      },
+      "latest_revision": 12,
+      "key": "/books/OL22100309M",
+      "authors": [
+        {
+          "key": "/authors/OL391839A"
+        }
+      ],
+      "ocaid": "firenexttime00bald_0",
+      "publish_places": [
+        "New York"
+      ],
+      "subjects": [
+        "African Americans.",
+        "Black Muslims.",
+        "United States -- Race relations."
+      ],
+      "pagination": "106 p. ; 20 cm.",
+      "classifications": {},
+      "source_records": [
+        "ia:firenexttime00bald_0"
+      ],
+      "title": "The fire next time",
+      "notes": "6",
+      "number_of_pages": 106,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-11-06T21:08:03.959941"
+      },
+      "edition_name": "1st Vintage International ed.",
+      "isbn_10": [
+        "067974472X"
+      ],
+      "publish_date": "1991",
+      "by_statement": "James Baldwin.",
+      "works": [
+        {
+          "key": "/works/OL2683364W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "revision": 12,
+      "cover": "OL22100309M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL10311988M": {
+      "publishers": [
+        "John Wiley & Sons Inc"
+      ],
+      "number_of_pages": 400,
+      "title": "The Undiscovered Paul Robeson, Volume II",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {
+        "goodreads": [
+          "6051784"
+        ],
+        "librarything": [
+          "3886448"
+        ]
+      },
+      "isbn_13": [
+        "9780471409731"
+      ],
+      "isbn_10": [
+        "0471409731"
+      ],
+      "key": "/books/OL10311988M",
+      "authors": [
+        {
+          "key": "/authors/OL2711203A"
+        }
+      ],
+      "works": [
+        {
+          "key": "/works/OL8136021W"
+        }
+      ],
+      "physical_format": "Hardcover",
+      "subjects": [
+        "Biography & Autobiography"
+      ],
+      "lccn": [
+        "2001017656"
+      ],
+      "lc_classifications": [
+        "E185.97.R63 R58 2001"
+      ],
+      "source_records": [
+        "marc:marc_loc_2016/BooksAll.2016.part28.utf8:196342842:1456",
+        "ia:undiscoveredpaul0000robe_d7g5"
+      ],
+      "covers": [
+        12639324
+      ],
+      "ocaid": "undiscoveredpaul0000robe_d7g5",
+      "latest_revision": 7,
+      "revision": 7,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-30T09:38:13.731961"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-02-19T05:53:50.817842"
+      },
+      "cover": "OL10311988M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL7613942M": {
+      "publishers": [
+        "Wiley"
+      ],
+      "identifiers": {
+        "librarything": [
+          "1418785"
+        ],
+        "goodreads": [
+          "6496210"
+        ]
+      },
+      "ia_box_id": [
+        "IA172401"
+      ],
+      "covers": [
+        302444
+      ],
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2012-04-07T01:26:30.328927"
+      },
+      "latest_revision": 6,
+      "key": "/books/OL7613942M",
+      "ocaid": "undiscoveredpaul00robe",
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "source_records": [
+        "ia:undiscoveredpaul00robe"
+      ],
+      "title": "The Undiscovered Paul Robeson , An Artist's Journey, 1898-1939",
+      "number_of_pages": 400,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T13:35:46.876380"
+      },
+      "isbn_13": [
+        "9780471242659"
+      ],
+      "isbn_10": [
+        "0471242659"
+      ],
+      "publish_date": "March 2, 2001",
+      "works": [
+        {
+          "key": "/works/OL16581841W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "first_sentence": {
+        "type": "/type/text",
+        "value": "Paul Leroy Robeson's soul as an artist was formed in a journey through life that began on April 9, 1898."
+      },
+      "revision": 6,
+      "cover": "OL7613942M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL28046594M": {
+      "publishers": [
+        "Duke University Press"
+      ],
+      "subtitle": "The Form and Function of Paul Robeson",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-05-14T17:34:33.332480"
+      },
+      "source_records": [
+        "bwb:9781478006619"
+      ],
+      "title": "Everything Man",
+      "number_of_pages": 208,
+      "isbn_13": [
+        "9781478006619"
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-05-14T17:34:33.332480"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "full_title": "Everything Man The Form and Function of Paul Robeson",
+      "lc_classifications": [
+        "E185.97.R63R436 2020"
+      ],
+      "publish_date": "2020",
+      "key": "/books/OL28046594M",
+      "authors": [
+        {
+          "key": "/authors/OL7595190A"
+        }
+      ],
+      "latest_revision": 1,
+      "works": [
+        {
+          "key": "/works/OL20736995W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Robeson, paul, 1898-1976",
+        "African americans, biography",
+        "African american actors"
+      ],
+      "revision": 1,
+      "cover": null,
+      "source": "open-library"
+    },
+    "/books/OL7944992M": {
+      "publishers": [
+        "Beacon Press"
+      ],
+      "identifiers": {
+        "goodreads": [
+          "776027"
+        ],
+        "librarything": [
+          "295126"
+        ]
+      },
+      "weight": "6.2 ounces",
+      "covers": [
+        588166
+      ],
+      "physical_format": "Paperback",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2010-08-06T09:40:39.377969"
+      },
+      "latest_revision": 8,
+      "key": "/books/OL7944992M",
+      "authors": [
+        {
+          "key": "/authors/OL819651A"
+        }
+      ],
+      "subjects": [
+        "Biography: general",
+        "Civil rights",
+        "Biography / Autobiography",
+        "Robeson, Paul,",
+        "Biography/Autobiography",
+        "Ethnic Studies - African American Studies - General",
+        "People of Color",
+        "Social Science / African-American Studies",
+        "Biography",
+        "1898-1976",
+        "African Americans",
+        "Blacks"
+      ],
+      "isbn_13": [
+        "9780807064450"
+      ],
+      "title": "Here I Stand",
+      "number_of_pages": 160,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2008-04-29T15:03:11.581851"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "isbn_10": [
+        "0807064459"
+      ],
+      "publish_date": "January 1, 1998",
+      "works": [
+        {
+          "key": "/works/OL4254535W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "physical_dimensions": "8 x 5.4 x 0.5 inches",
+      "revision": 8,
+      "cover": "OL7944992M.jpg",
+      "source": "open-library"
+    },
+    "/books/OL29279741M": {
+      "publishers": [
+        "Pluto Press"
+      ],
+      "subtitle": "The Artist As Revolutionary",
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2020-08-24T04:30:10.239395"
+      },
+      "source_records": [
+        "bwb:9780745335322"
+      ],
+      "title": "Paul Robeson",
+      "number_of_pages": 256,
+      "isbn_13": [
+        "9780745335322"
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2020-08-24T04:30:10.239395"
+      },
+      "languages": [
+        {
+          "key": "/languages/eng"
+        }
+      ],
+      "full_title": "Paul Robeson The Artist As Revolutionary",
+      "lc_classifications": [
+        ""
+      ],
+      "publish_date": "2016",
+      "key": "/books/OL29279741M",
+      "authors": [
+        {
+          "key": "/authors/OL383617A"
+        }
+      ],
+      "latest_revision": 1,
+      "works": [
+        {
+          "key": "/works/OL20472752W"
+        }
+      ],
+      "type": {
+        "key": "/type/edition"
+      },
+      "subjects": [
+        "Robeson, paul, 1898-1976",
+        "Singers, united states",
+        "Singers, biography"
+      ],
+      "revision": 1,
+      "cover": null,
+      "source": "open-library"
+    }
+  }
+}
