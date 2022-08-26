@@ -6,6 +6,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Books</title>
     <style>
+      body {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+          Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+          sans-serif;
+      }
+      main {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+      }
+      main div {
+        text-align: center;
+      }
+      h1 {
+        font-size: 1.4rem;
+      }
       img {
         height: auto;
         width: 200px;
@@ -48,8 +64,8 @@
           div.innerHTML = `
       ${img}
       <h1>${title}</h1>
-      ${subtitle ? `<p><em>${subtitle}}</em></p>` : ""}
-      ${by ? `<p>${by}}</p>` : ""}
+      ${subtitle ? `<p><em>${subtitle}</em></p>` : ""}
+      ${by ? `<p>${by}</p>` : ""}
       <p>${date || ""} ${format || ""} ${pages || ""}</p>
     `;
         }
