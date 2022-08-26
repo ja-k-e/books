@@ -15,8 +15,10 @@ console.log(processed);
 run();
 
 async function run() {
-  const books = Object.values(JSON.parse(fs.readFileSync("data.json")).books);
-  const promises = books.map(downloadMedia);
+  const data = JSON.parse(fs.readFileSync("data.json"));
+  const books = Object.values(data.books);
+  const works = Object.values(data.works);
+  const promises = [...books, ...works].map(downloadMedia);
   console.log("start: processed", Object.keys(processed).length);
   try {
     await Promise.all(promises);
@@ -26,19 +28,21 @@ async function run() {
   console.log("done: processed", Object.keys(processed).length);
 }
 
-async function downloadMedia({ key, covers }) {
-  const cleanKey = key.replace("/books/", "");
-  if (!covers || !covers[0] || processed[cleanKey]) {
-    return true;
-  }
-  const coverUrl = `https://covers.openlibrary.org/b/id/${covers[0]}-L.jpg`;
-  const fileName = `${cleanKey}.jpg`;
-  processed[cleanKey] = 1;
+async function downloadMedia({ covers, coverUrls }) {
+  const promises = covers
+    .map((cover, i) => {
+      const url = coverUrls[i];
+      const name = cover;
+      if (processed[name]) return null;
+      processed[name] = 1;
+      return download.image({
+        url,
+        dest: path.join(__dirname, `media/${cover}`),
+      });
+    })
+    .filter(Boolean);
   try {
-    await download.image({
-      url: coverUrl,
-      dest: path.join(__dirname, `media/${fileName}`),
-    });
+    await Promise.all(promises);
     return true;
   } catch (e) {
     console.log(e);
