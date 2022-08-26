@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Books</title>
+  </head>
+  <body>
+    <main></main>
+    <script>
+      const main = document.querySelector("main");
+
+      initialize();
+
+      async function initialize() {
+        const data = await (await fetch("./data.json")).json();
+        Object.values(data.books).forEach(renderBook);
+
+        function renderBook({
+          id,
+          covers,
+          coverUrls,
+          title,
+          subtitle,
+          description,
+          by,
+          authors,
+          format,
+          date,
+          pages,
+          isbn,
+          work,
+          source,
+          key,
+        }) {
+          const div = document.createElement("div");
+          main.appendChild(div);
+          const works = data.works[work];
+          const cover = [...covers, ...works.covers].filter(Boolean)[0];
+          const img = cover ? `<img src="media/${cover}" />` : "";
+          div.innerHTML = `
+      ${img}
+      <h1>${title}</h1>
+      ${subtitle ? `<p><em>${subtitle}}</em></p>` : ""}
+      ${by ? `<p>${by}}</p>` : ""}
+      <p>${date || ""} ${format || ""} ${pages || ""}</p>
+    `;
+        }
+      }
+    </script>
+  </body>
+</html>
