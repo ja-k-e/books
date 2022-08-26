@@ -15,12 +15,17 @@
         display: flex;
         flex-wrap: wrap;
         gap: 1rem;
+        justify-content: center;
       }
       main div {
         text-align: center;
+        width: 200px;
       }
       h1 {
         font-size: 1.4rem;
+      }
+      h2 {
+        font-size: 1.2rem;
       }
       h1,
       p {
@@ -72,7 +77,7 @@
       ${img}
       <h1>${title}</h1>
       ${subtitle ? `<p><em>${subtitle}</em></p>` : ""}
-      ${by ? `<p>${by}</p>` : ""}
+      ${by ? `<h2>${by}</h2>` : ""}
       <p>${date || ""} ${format || ""} ${pages || ""}</p>
     `;
         }
