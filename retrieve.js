@@ -113,17 +113,18 @@ function renderBook({
   key,
 }) {
   const works = data.works[work];
-  const cover = [...covers, ...works.covers].filter(Boolean)[0];
+  const cover = [...works.covers, ...covers].filter(Boolean)[0];
   const img = cover
     ? `<img src="media/${cover}" />`
     : `<span class="img"></span>`;
+  by = by || authors.map((id) => data.authors[id].name).join(", ");
   return `
-<div>
+<div class="${data.read[work] ? "read" : data.reading[work] ? "reading" : ""}">
 ${img}
-<h1>${title}</h1>
+<h1>${works.title || title}</h1>
 ${subtitle ? `<p><em>${subtitle}</em></p>` : ""}
-${by ? `<h2>${by}</h2>` : ""}
-<p>${date || ""} ${format || ""} ${pages || ""}</p>
+${by ? `<p>${by}</p>` : ""}
+<p><small>${works.date || date || ""} ${format || ""} ${pages || ""}</small></p>
 </div>`;
 }
 

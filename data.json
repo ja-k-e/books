@@ -1,8 +1,8 @@
 {
   "reading": {
-    "BOOKSOL34179311M": 1,
-    "BOOKSOL8801803M": 1,
-    "BOOKSOL28249685M": 1
+    "WORKSOL25454130W": 1,
+    "WORKSOL2008319W": 1,
+    "WORKSOL20863225W": 1
   },
   "read": {
     "WORKSOL20025301W": 1,
@@ -1584,7 +1584,7 @@
       "subtitle": null,
       "description": null,
       "by": null,
-      "authors": [],
+      "authors": ["AUTHORSOL391839A"],
       "format": null,
       "date": "1956",
       "pages": null,
@@ -1739,7 +1739,7 @@
       "id": "BOOKSOL34179311M",
       "covers": [],
       "coverUrls": [],
-      "title": "Eslanda Second Ed",
+      "title": "Eslanda",
       "subtitle": "The Large and Unconventional Life of Mrs. Paul Robeson",
       "description": null,
       "by": "Barbara Ransby",
@@ -2308,7 +2308,7 @@
       "id": "BOOKSOL28895249M",
       "covers": [],
       "coverUrls": [],
-      "title": "Street",
+      "title": "The Street",
       "subtitle": null,
       "description": null,
       "by": "Ann Lane Petry, Tayari Jones",
@@ -3829,7 +3829,7 @@
       "id": "WORKSOL25454130W",
       "covers": [],
       "coverUrls": [],
-      "title": "Eslanda Second Ed",
+      "title": "Eslanda",
       "description": null,
       "date": null,
       "key": "/works/OL25454130W"
