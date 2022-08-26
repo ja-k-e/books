@@ -61,9 +61,61 @@ async function processISBN() {
     }
   }
 }
+
 processISBN().then(() => {
   console.log(isbns.length, failedIsbns.length);
+  fs.writeFileSync(
+    "index.html",
+    `
+  <!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <meta charset="UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Books</title>
+      <link rel="stylesheet" href="app.css" />
+    </head>
+    <body>
+      <main>
+      ${Object.values(data.books).map(renderBook).join("\n")}
+      </main>
+    </body>
+    </html>`
+  );
 });
+
+function renderBook({
+  id,
+  covers,
+  coverUrls,
+  title,
+  subtitle,
+  description,
+  by,
+  authors,
+  format,
+  date,
+  pages,
+  isbn,
+  work,
+  source,
+  key,
+}) {
+  const works = data.works[work];
+  const cover = [...covers, ...works.covers].filter(Boolean)[0];
+  const img = cover
+    ? `<img src="media/${cover}" />`
+    : `<span class"img"></span>`;
+  return `
+<div>
+${img}
+<h1>${title}</h1>
+${subtitle ? `<p><em>${subtitle}</em></p>` : ""}
+${by ? `<h2>${by}</h2>` : ""}
+<p>${date || ""} ${format || ""} ${pages || ""}</p>
+</div>`;
+}
 
 function cleanId(key) {
   return key.replace(/[^\w\d]/g, "").toUpperCase();

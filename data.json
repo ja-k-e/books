@@ -369,13 +369,19 @@
   "books": {
     "BOOKSOL27205350M": {
       "id": "BOOKSOL27205350M",
-      "covers": ["12729697.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/12729697-L.jpg"],
+      "covers": [
+        "12729697.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/12729697-L.jpg"
+      ],
       "title": "The South Side",
       "subtitle": "a portrait of Chicago and American segregation",
       "description": "\"Mayors Richard M. Daley and Rahm Emanuel have touted and promoted Chicago as a \"world class city.\" The skyscrapers kissing the clouds, the billion-dollar Millennium Park, Michelin-rated restaurants, pristine lake views, fabulous shopping, vibrant theater scene, downtown flower beds and stellar architecture tell one story. Yet, swept under the rug is the stench of segregation that compromises Chicago. The Manhattan Institute dubs Chicago as one of the most segregated big cities in the country. Though other cities - including Cleveland, Los Angeles, and Baltimore - can fight over that mantle, it's clear that segregation defines Chicago. And unlike many other major U.S. cities, no one race dominates. Chicago is divided equally into black, white, and Latino, each group clustered in their various turfs. In this intelligent and highly important narrative, Chicago-native Natalie Moore shines a light on contemporary segregation on the South Side of Chicago through reported essays, showing the life of these communities through the stories of people who live in them. The South Side shows the important impact of Chicago's historic segregation - and the ongoing policies that keep it that way\"--",
       "by": "Natalie Y. Moore",
-      "authors": ["AUTHORSOL3080724A"],
+      "authors": [
+        "AUTHORSOL3080724A"
+      ],
       "format": null,
       "date": "2016",
       "pages": 250,
@@ -386,13 +392,19 @@
     },
     "BOOKSOL30080357M": {
       "id": "BOOKSOL30080357M",
-      "covers": ["10673464.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10673464-L.jpg"],
+      "covers": [
+        "10673464.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10673464-L.jpg"
+      ],
       "title": "Laziness Does Not Exist",
       "subtitle": null,
       "description": null,
       "by": "DeVon Price",
-      "authors": ["AUTHORSOL8442253A"],
+      "authors": [
+        "AUTHORSOL8442253A"
+      ],
       "format": null,
       "date": "2021",
       "pages": 256,
@@ -409,7 +421,10 @@
       "subtitle": null,
       "description": "Building on the groundbreaking first volume, Queer and Trans Artists of Color: Stories of Some of Our Lives, Nia King returns with a second archive of interviews from her podcast We Want the Airwaves.",
       "by": "interviews by Nia King ; edited by Elena Rose",
-      "authors": ["AUTHORSOL7522990A", "AUTHORSOL7523013A"],
+      "authors": [
+        "AUTHORSOL7522990A",
+        "AUTHORSOL7523013A"
+      ],
       "format": null,
       "date": "2016",
       "pages": 231,
@@ -448,7 +463,9 @@
       "subtitle": null,
       "description": null,
       "by": "MORAGA ANZALDUA",
-      "authors": ["AUTHORSOL9765706A"],
+      "authors": [
+        "AUTHORSOL9765706A"
+      ],
       "format": null,
       "date": "2022",
       "pages": null,
@@ -465,7 +482,9 @@
       "subtitle": "Afro-Optimism and Creativity in Chicago",
       "description": null,
       "by": "Ayana Contreras",
-      "authors": ["AUTHORSOL9573423A"],
+      "authors": [
+        "AUTHORSOL9573423A"
+      ],
       "format": null,
       "date": "2021",
       "pages": 192,
@@ -476,13 +495,19 @@
     },
     "BOOKSOL8025649M": {
       "id": "BOOKSOL8025649M",
-      "covers": ["609097.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/609097-L.jpg"],
+      "covers": [
+        "609097.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/609097-L.jpg"
+      ],
       "title": "The Truth That Never Hurts",
       "subtitle": "Writings on Race, Gender, and Freedom",
       "description": null,
       "by": "Barbara Smith",
-      "authors": ["AUTHORSOL1430360A"],
+      "authors": [
+        "AUTHORSOL1430360A"
+      ],
       "format": "Paperback",
       "date": "September 2000",
       "pages": 240,
@@ -493,13 +518,19 @@
     },
     "BOOKSOL32496301M": {
       "id": "BOOKSOL32496301M",
-      "covers": ["11149890.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/11149890-L.jpg"],
+      "covers": [
+        "11149890.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/11149890-L.jpg"
+      ],
       "title": "There Are Trans People Here",
       "subtitle": null,
       "description": null,
       "by": "H. Melt",
-      "authors": ["AUTHORSOL7642395A"],
+      "authors": [
+        "AUTHORSOL7642395A"
+      ],
       "format": "paperback",
       "date": "Nov 16, 2021",
       "pages": 100,
@@ -516,7 +547,9 @@
       "subtitle": null,
       "description": "Coval's poems celebrate the history of Chicago from the perspective of those on the margins, those whose stories often go untold. In doing so he honors the everyday lives and enduring resistance of the city's workers, poor people, and people of color, whose cultural and political revolutions continue to shape the social landscape.",
       "by": "Kevin Coval ; foreword by Chance the Rapper",
-      "authors": ["AUTHORSOL3020379A"],
+      "authors": [
+        "AUTHORSOL3020379A"
+      ],
       "format": null,
       "date": "2017",
       "pages": 135,
@@ -527,13 +560,19 @@
     },
     "BOOKSOL32017096M": {
       "id": "BOOKSOL32017096M",
-      "covers": ["10683468.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10683468-L.jpg"],
+      "covers": [
+        "10683468.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10683468-L.jpg"
+      ],
       "title": "Even the Saints Audition",
       "subtitle": null,
       "description": null,
       "by": "Raych Jackson",
-      "authors": ["AUTHORSOL9113043A"],
+      "authors": [
+        "AUTHORSOL9113043A"
+      ],
       "format": "paperback",
       "date": "Sep 24, 2019",
       "pages": 96,
@@ -544,13 +583,19 @@
     },
     "BOOKSOL28966639M": {
       "id": "BOOKSOL28966639M",
-      "covers": ["10367963.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10367963-L.jpg"],
+      "covers": [
+        "10367963.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10367963-L.jpg"
+      ],
       "title": "Ghosts in the Schoolyard",
       "subtitle": "Racism and School Closings on Chicago's South Side",
       "description": null,
       "by": "Eve L. Ewing",
-      "authors": ["AUTHORSOL7525388A"],
+      "authors": [
+        "AUTHORSOL7525388A"
+      ],
       "format": "paperback",
       "date": "Apr 10, 2020",
       "pages": 240,
@@ -567,7 +612,9 @@
       "subtitle": null,
       "description": "Blending stark realism with the surreal and fantastic, Eve L. Ewings narrative takes us from the streets of 1990s Chicago to an unspecified future, deftly navigating the boundaries of space, time, and reality. Ewing imagines familiar figures in magical circumstancesblues legend Koko Taylor is a tall-tale hero; LeBron James travels through time and encounters his teenage self. She identifies everyday objectshair moisturizer, a spiral notebookas precious icons.",
       "by": "Eve L. Ewing",
-      "authors": ["AUTHORSOL7525388A"],
+      "authors": [
+        "AUTHORSOL7525388A"
+      ],
       "format": null,
       "date": "2017",
       "pages": 90,
@@ -578,13 +625,19 @@
     },
     "BOOKSOL7283485M": {
       "id": "BOOKSOL7283485M",
-      "covers": ["38974.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/38974-L.jpg"],
+      "covers": [
+        "38974.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/38974-L.jpg"
+      ],
       "title": "Selected Poems (P.S.)",
       "subtitle": null,
       "description": null,
       "by": "Gwendolyn Brooks",
-      "authors": ["AUTHORSOL241940A"],
+      "authors": [
+        "AUTHORSOL241940A"
+      ],
       "format": null,
       "date": "July 3, 2006",
       "pages": 176,
@@ -595,13 +648,19 @@
     },
     "BOOKSOL28176507M": {
       "id": "BOOKSOL28176507M",
-      "covers": ["10113848.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10113848-L.jpg"],
+      "covers": [
+        "10113848.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10113848-L.jpg"
+      ],
       "title": "Exhalation",
       "subtitle": null,
       "description": null,
       "by": "Ted Chiang",
-      "authors": ["AUTHORSOL1604887A"],
+      "authors": [
+        "AUTHORSOL1604887A"
+      ],
       "format": "paperback",
       "date": "Jun 30, 2020",
       "pages": 368,
@@ -612,8 +671,12 @@
     },
     "BOOKSOL26743056M": {
       "id": "BOOKSOL26743056M",
-      "covers": ["8885976.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/8885976-L.jpg"],
+      "covers": [
+        "8885976.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/8885976-L.jpg"
+      ],
       "title": "Stories of Your Life and Others",
       "subtitle": null,
       "description": null,
@@ -629,8 +692,12 @@
     },
     "BOOKSOL27931262M": {
       "id": "BOOKSOL27931262M",
-      "covers": ["10551252.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10551252-L.jpg"],
+      "covers": [
+        "10551252.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10551252-L.jpg"
+      ],
       "title": "Unworthy Republic: The Dispossession of Native Americans and the Road to Indian Territory",
       "subtitle": null,
       "description": null,
@@ -646,13 +713,20 @@
     },
     "BOOKSOL8022730M": {
       "id": "BOOKSOL8022730M",
-      "covers": ["1539416.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/1539416-L.jpg"],
+      "covers": [
+        "1539416.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/1539416-L.jpg"
+      ],
       "title": "Subversive Southerner",
       "subtitle": "Anne Braden And the Struggle for Racial Justice in the Cold War South (Civil Rights and the Struggle for Black Equality in the Twentieth Century)",
       "description": null,
       "by": "Catherine Fosl, Angela Y. Davis",
-      "authors": ["AUTHORSOL1479991A", "AUTHORSOL396182A"],
+      "authors": [
+        "AUTHORSOL1479991A",
+        "AUTHORSOL396182A"
+      ],
       "format": "Paperback",
       "date": "August 2006",
       "pages": 418,
@@ -663,13 +737,19 @@
     },
     "BOOKSOL8596091M": {
       "id": "BOOKSOL8596091M",
-      "covers": ["777656.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/777656-L.jpg"],
+      "covers": [
+        "777656.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/777656-L.jpg"
+      ],
       "title": "Assata",
       "subtitle": "An Autobiography (Lawrence Hill & Co.)",
       "description": null,
       "by": "Assata Shakur",
-      "authors": ["AUTHORSOL1074861A"],
+      "authors": [
+        "AUTHORSOL1074861A"
+      ],
       "format": "Paperback",
       "date": "November 1, 2001",
       "pages": 320,
@@ -680,13 +760,19 @@
     },
     "BOOKSOL28719411M": {
       "id": "BOOKSOL28719411M",
-      "covers": ["11488324.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/11488324-L.jpg"],
+      "covers": [
+        "11488324.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/11488324-L.jpg"
+      ],
       "title": "Looking for Lorraine",
       "subtitle": "The Radiant and Radical Life of Lorraine Hansberry",
       "description": null,
       "by": "Imani Perry",
-      "authors": ["AUTHORSOL3287975A"],
+      "authors": [
+        "AUTHORSOL3287975A"
+      ],
       "format": "Paperback",
       "date": "2019",
       "pages": 256,
@@ -697,13 +783,19 @@
     },
     "BOOKSOL27436872M": {
       "id": "BOOKSOL27436872M",
-      "covers": ["8897033.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/8897033-L.jpg"],
+      "covers": [
+        "8897033.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/8897033-L.jpg"
+      ],
       "title": "The Counter-Revolution of 1776",
       "subtitle": "Slave Resistance and the Origins of the United States of America",
       "description": null,
       "by": "Gerald Horne",
-      "authors": ["AUTHORSOL383617A"],
+      "authors": [
+        "AUTHORSOL383617A"
+      ],
       "format": "paperback",
       "date": "Sep 01, 2016",
       "pages": 363,
@@ -714,13 +806,19 @@
     },
     "BOOKSOL8781492M": {
       "id": "BOOKSOL8781492M",
-      "covers": ["1940446.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/1940446-L.jpg"],
+      "covers": [
+        "1940446.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/1940446-L.jpg"
+      ],
       "title": "Sister Outsider",
       "subtitle": "Essays and Speeches (Crossing Press Feminist Series)",
       "description": null,
       "by": "Audre Lorde",
-      "authors": ["AUTHORSOL278850A"],
+      "authors": [
+        "AUTHORSOL278850A"
+      ],
       "format": "Paperback",
       "date": "August 2007",
       "pages": 190,
@@ -731,13 +829,19 @@
     },
     "BOOKSOL27258155M": {
       "id": "BOOKSOL27258155M",
-      "covers": ["8750451.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/8750451-L.jpg"],
+      "covers": [
+        "8750451.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/8750451-L.jpg"
+      ],
       "title": "Our History Is the Future",
       "subtitle": "Standing Rock Versus the Dakota Access Pipeline, and the Long Tradition of Indigenous Resistance",
       "description": null,
       "by": "Nick Estes",
-      "authors": ["AUTHORSOL7618257A"],
+      "authors": [
+        "AUTHORSOL7618257A"
+      ],
       "format": "hardcover",
       "date": "Mar 05, 2019",
       "pages": 320,
@@ -748,13 +852,19 @@
     },
     "BOOKSOL31982930M": {
       "id": "BOOKSOL31982930M",
-      "covers": ["10657378.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10657378-L.jpg"],
+      "covers": [
+        "10657378.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10657378-L.jpg"
+      ],
       "title": "We Are Not Broken",
       "subtitle": null,
       "description": null,
       "by": "George M. Johnson",
-      "authors": ["AUTHORSOL7838845A"],
+      "authors": [
+        "AUTHORSOL7838845A"
+      ],
       "format": "hardcover",
       "date": "Sep 07, 2021",
       "pages": 320,
@@ -765,13 +875,19 @@
     },
     "BOOKSOL28033076M": {
       "id": "BOOKSOL28033076M",
-      "covers": ["11305725.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/11305725-L.jpg"],
+      "covers": [
+        "11305725.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/11305725-L.jpg"
+      ],
       "title": "All Boys Aren't Blue",
       "subtitle": null,
       "description": null,
       "by": "George M. Johnson",
-      "authors": ["AUTHORSOL7838845A"],
+      "authors": [
+        "AUTHORSOL7838845A"
+      ],
       "format": null,
       "date": "2020",
       "pages": 288,
@@ -788,7 +904,9 @@
       "subtitle": "Black women and feminism",
       "description": "\"A classic work of feminist scholarship, Ain't I a Woman has become a must-read for all those interested in the nature of Black womanhood. Examining the impact of sexism on Black women during slavery, the devaluation of Back womanhood, Black male sexism, racism among feminists, and the Black woman's involvement with feminism, hooks attempts to move us beyond racist and sexist assumptions. The result is nothing short of groundbreaking, giving this book a critical place on every feminist scholar's bookshelf. \"--",
       "by": "bell hooks",
-      "authors": ["AUTHORSOL2631291A"],
+      "authors": [
+        "AUTHORSOL2631291A"
+      ],
       "format": null,
       "date": "2015",
       "pages": 205,
@@ -799,13 +917,19 @@
     },
     "BOOKSOL28151133M": {
       "id": "BOOKSOL28151133M",
-      "covers": ["10091746.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10091746-L.jpg"],
+      "covers": [
+        "10091746.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10091746-L.jpg"
+      ],
       "title": "The New Jim Crow",
       "subtitle": "Mass Incarceration in the Age of Colorblindness",
       "description": null,
       "by": "Michelle Alexander",
-      "authors": ["AUTHORSOL7932828A"],
+      "authors": [
+        "AUTHORSOL7932828A"
+      ],
       "format": "paperback",
       "date": "Jan 07, 2020",
       "pages": 352,
@@ -816,8 +940,12 @@
     },
     "BOOKSOL26372777M": {
       "id": "BOOKSOL26372777M",
-      "covers": ["8061168.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/8061168-L.jpg"],
+      "covers": [
+        "8061168.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/8061168-L.jpg"
+      ],
       "title": "To Die for the People",
       "subtitle": null,
       "description": null,
@@ -833,13 +961,19 @@
     },
     "BOOKSOL28158450M": {
       "id": "BOOKSOL28158450M",
-      "covers": ["10098209.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10098209-L.jpg"],
+      "covers": [
+        "10098209.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10098209-L.jpg"
+      ],
       "title": "Disability Visibility",
       "subtitle": "First-Person Stories from the Twenty-First Century",
       "description": null,
       "by": "Alice Wong",
-      "authors": ["AUTHORSOL2854873A"],
+      "authors": [
+        "AUTHORSOL2854873A"
+      ],
       "format": "paperback",
       "date": "Jun 30, 2020",
       "pages": 336,
@@ -850,13 +984,19 @@
     },
     "BOOKSOL28298817M": {
       "id": "BOOKSOL28298817M",
-      "covers": ["10224051.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10224051-L.jpg"],
+      "covers": [
+        "10224051.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10224051-L.jpg"
+      ],
       "title": "Mutual Aid",
       "subtitle": "Building Solidarity During This Crisis",
       "description": null,
       "by": "Dean Spade",
-      "authors": ["AUTHORSOL6988256A"],
+      "authors": [
+        "AUTHORSOL6988256A"
+      ],
       "format": "paperback",
       "date": "Oct 27, 2020",
       "pages": 128,
@@ -867,13 +1007,19 @@
     },
     "BOOKSOL3395333M": {
       "id": "BOOKSOL3395333M",
-      "covers": ["295851.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/295851-L.jpg"],
+      "covers": [
+        "295851.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/295851-L.jpg"
+      ],
       "title": "Narrative of the life of Frederick Douglass",
       "subtitle": "an American slave",
       "description": null,
       "by": "written by himself ; with an introduction by Peter J. Gomes and a new afterword by Gregory Stephens.",
-      "authors": ["AUTHORSOL2641167A"],
+      "authors": [
+        "AUTHORSOL2641167A"
+      ],
       "format": null,
       "date": "2005",
       "pages": 144,
@@ -890,7 +1036,9 @@
       "subtitle": null,
       "description": null,
       "by": "Colin Fleming",
-      "authors": ["AUTHORSOL3542009A"],
+      "authors": [
+        "AUTHORSOL3542009A"
+      ],
       "format": null,
       "date": "2021",
       "pages": 152,
@@ -907,7 +1055,9 @@
       "subtitle": null,
       "description": null,
       "by": "Aaron Cohen",
-      "authors": ["AUTHORSOL4886373A"],
+      "authors": [
+        "AUTHORSOL4886373A"
+      ],
       "format": null,
       "date": "2011",
       "pages": 166,
@@ -918,13 +1068,19 @@
     },
     "BOOKSOL33287485M": {
       "id": "BOOKSOL33287485M",
-      "covers": ["11947731.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/11947731-L.jpg"],
+      "covers": [
+        "11947731.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/11947731-L.jpg"
+      ],
       "title": "The Red Deal",
       "subtitle": "Indigenous Action to Save Our Earth",
       "description": null,
       "by": "The Red Nation",
-      "authors": ["AUTHORSOL9440254A"],
+      "authors": [
+        "AUTHORSOL9440254A"
+      ],
       "format": "paperback",
       "date": "Apr 20, 2021",
       "pages": 144,
@@ -935,7 +1091,10 @@
     },
     "BOOKSOL8789611M": {
       "id": "BOOKSOL8789611M",
-      "covers": ["10129501.jpg", "846838.jpg"],
+      "covers": [
+        "10129501.jpg",
+        "846838.jpg"
+      ],
       "coverUrls": [
         "https://covers.openlibrary.org/b/id/10129501-L.jpg",
         "https://covers.openlibrary.org/b/id/846838-L.jpg"
@@ -944,7 +1103,9 @@
       "subtitle": null,
       "description": null,
       "by": "Angela Y. Davis",
-      "authors": ["AUTHORSOL396182A"],
+      "authors": [
+        "AUTHORSOL396182A"
+      ],
       "format": "Paperback",
       "date": "April 2003",
       "pages": 128,
@@ -955,8 +1116,12 @@
     },
     "BOOKSOL32007786M": {
       "id": "BOOKSOL32007786M",
-      "covers": ["10675199.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10675199-L.jpg"],
+      "covers": [
+        "10675199.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10675199-L.jpg"
+      ],
       "title": "Virtue Hoarders",
       "subtitle": "The Case Against the Professional Managerial Class",
       "description": null,
@@ -972,13 +1137,19 @@
     },
     "BOOKSOL31861187M": {
       "id": "BOOKSOL31861187M",
-      "covers": ["10546494.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10546494-L.jpg"],
+      "covers": [
+        "10546494.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10546494-L.jpg"
+      ],
       "title": "Trans Care",
       "subtitle": null,
       "description": null,
       "by": "Hil Malatino",
-      "authors": ["AUTHORSOL9084266A"],
+      "authors": [
+        "AUTHORSOL9084266A"
+      ],
       "format": "paperback",
       "date": "Sep 01, 2020",
       "pages": 72,
@@ -995,7 +1166,9 @@
       "subtitle": null,
       "description": null,
       "by": "Sojourner Truth",
-      "authors": ["AUTHORSOL2658871A"],
+      "authors": [
+        "AUTHORSOL2658871A"
+      ],
       "format": null,
       "date": "2020",
       "pages": 128,
@@ -1006,13 +1179,19 @@
     },
     "BOOKSOL27569196M": {
       "id": "BOOKSOL27569196M",
-      "covers": ["9024229.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/9024229-L.jpg"],
+      "covers": [
+        "9024229.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/9024229-L.jpg"
+      ],
       "title": "The Mexican Revolution",
       "subtitle": "A Short History 1910-1920",
       "description": null,
       "by": "Stuart Easterling",
-      "authors": ["AUTHORSOL7716816A"],
+      "authors": [
+        "AUTHORSOL7716816A"
+      ],
       "format": "paperback",
       "date": "Feb 05, 2013",
       "pages": 180,
@@ -1023,8 +1202,12 @@
     },
     "BOOKSOL28736581M": {
       "id": "BOOKSOL28736581M",
-      "covers": ["10352183.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10352183-L.jpg"],
+      "covers": [
+        "10352183.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10352183-L.jpg"
+      ],
       "title": "Freedom is a Constant Struggle",
       "subtitle": "Ferguson, Palestine, and the Foundations of a Movement",
       "description": null,
@@ -1040,13 +1223,19 @@
     },
     "BOOKSOL27097459M": {
       "id": "BOOKSOL27097459M",
-      "covers": ["8737401.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/8737401-L.jpg"],
+      "covers": [
+        "8737401.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/8737401-L.jpg"
+      ],
       "title": "Men Explain Things to Me",
       "subtitle": null,
       "description": null,
       "by": "Rebecca Solnit",
-      "authors": ["AUTHORSOL22530A"],
+      "authors": [
+        "AUTHORSOL22530A"
+      ],
       "format": null,
       "date": "Sep 01, 2015",
       "pages": 176,
@@ -1057,8 +1246,12 @@
     },
     "BOOKSOL30542041M": {
       "id": "BOOKSOL30542041M",
-      "covers": ["10467926.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10467926-L.jpg"],
+      "covers": [
+        "10467926.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10467926-L.jpg"
+      ],
       "title": "We Still Here",
       "subtitle": "Pandemic, Policing, Protest and Possibility",
       "description": null,
@@ -1078,13 +1271,19 @@
     },
     "BOOKSOL26935202M": {
       "id": "BOOKSOL26935202M",
-      "covers": ["11488331.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/11488331-L.jpg"],
+      "covers": [
+        "11488331.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/11488331-L.jpg"
+      ],
       "title": "How we get free",
       "subtitle": "black feminism and the Combahee River Collective",
       "description": null,
       "by": "edited and introduced by Keeanga-Yamahtta Taylor",
-      "authors": ["AUTHORSOL7526541A"],
+      "authors": [
+        "AUTHORSOL7526541A"
+      ],
       "format": "Paperback",
       "date": "2017",
       "pages": 191,
@@ -1095,13 +1294,20 @@
     },
     "BOOKSOL28252569M": {
       "id": "BOOKSOL28252569M",
-      "covers": ["10182350.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10182350-L.jpg"],
+      "covers": [
+        "10182350.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10182350-L.jpg"
+      ],
       "title": "The End of White World Supremacy",
       "subtitle": "Four Speeches",
       "description": null,
       "by": "Malcolm X, Imam Benjamin Karim",
-      "authors": ["AUTHORSOL5936620A", "AUTHORSOL7978311A"],
+      "authors": [
+        "AUTHORSOL5936620A",
+        "AUTHORSOL7978311A"
+      ],
       "format": "paperback",
       "date": "Feb 11, 2020",
       "pages": 168,
@@ -1118,7 +1324,9 @@
       "subtitle": "a radical alternative to capitalist catastrophe",
       "description": null,
       "by": "Michael Löwy",
-      "authors": ["AUTHORSOL228242A"],
+      "authors": [
+        "AUTHORSOL228242A"
+      ],
       "format": null,
       "date": "2015",
       "pages": 120,
@@ -1129,13 +1337,19 @@
     },
     "BOOKSOL32014582M": {
       "id": "BOOKSOL32014582M",
-      "covers": ["10681161.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10681161-L.jpg"],
+      "covers": [
+        "10681161.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10681161-L.jpg"
+      ],
       "title": "Hood Feminism",
       "subtitle": "Notes from the Women That a Movement Forgot",
       "description": null,
       "by": "Mikki Kendall",
-      "authors": ["AUTHORSOL7940900A"],
+      "authors": [
+        "AUTHORSOL7940900A"
+      ],
       "format": "paperback",
       "date": "Feb 23, 2021",
       "pages": 288,
@@ -1152,7 +1366,10 @@
       "subtitle": "Voices from Within the Veil",
       "description": null,
       "by": "W. E. B. Du Bois, Honorée Fanonne Jeffers",
-      "authors": ["AUTHORSOL7303591A", "AUTHORSOL1482336A"],
+      "authors": [
+        "AUTHORSOL7303591A",
+        "AUTHORSOL1482336A"
+      ],
       "format": null,
       "date": "2021",
       "pages": null,
@@ -1163,13 +1380,20 @@
     },
     "BOOKSOL30197695M": {
       "id": "BOOKSOL30197695M",
-      "covers": ["10544146.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10544146-L.jpg"],
+      "covers": [
+        "10544146.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10544146-L.jpg"
+      ],
       "title": "Cancer Journals",
       "subtitle": null,
       "description": null,
       "by": "Audre Lorde, Tracy K. Smith",
-      "authors": ["AUTHORSOL278850A", "AUTHORSOL7795224A"],
+      "authors": [
+        "AUTHORSOL278850A",
+        "AUTHORSOL7795224A"
+      ],
       "format": null,
       "date": "2020",
       "pages": 96,
@@ -1180,8 +1404,12 @@
     },
     "BOOKSOL32812737M": {
       "id": "BOOKSOL32812737M",
-      "covers": ["11445546.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/11445546-L.jpg"],
+      "covers": [
+        "11445546.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/11445546-L.jpg"
+      ],
       "title": "Between the World and Me",
       "subtitle": null,
       "description": "In a profound work that pivots from the biggest questions about American history and ideals to the most intimate concerns of a father for his son, Ta-Nehisi Coates offers a powerful new framework for understanding our nation’s history and current crisis. Americans have built an empire on the idea of “race,” a falsehood that damages us all but falls most heavily on the bodies of black women and men—bodies exploited through slavery and segregation, and, today, threatened, locked up, and murdered out of all proportion. What is it like to inhabit a black body and find a way to live within it? And how can we all honestly reckon with this fraught history and free ourselves from its burden?\r\n\r\nBetween the World and Me is Ta-Nehisi Coates’s attempt to answer these questions in a letter to his adolescent son. Coates shares with his son—and readers—the story of his awakening to the truth about his place in the world through a series of revelatory experiences, from Howard University to Civil War battlefields, from the South Side of Chicago to Paris, from his childhood home to the living rooms of mothers whose children’s lives were taken as American plunder. Beautifully woven from personal narrative, reimagined history, and fresh, emotionally charged reportage, Between the World and Me clearly illuminates the past, bracingly confronts our present, and offers a transcendent vision for a way forward.\r\n\r\n-front flap",
@@ -1197,13 +1425,19 @@
     },
     "BOOKSOL23108715M": {
       "id": "BOOKSOL23108715M",
-      "covers": ["9455438.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/9455438-L.jpg"],
+      "covers": [
+        "9455438.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/9455438-L.jpg"
+      ],
       "title": "The will to change",
       "subtitle": "men, masculinity, and love",
       "description": null,
       "by": "Bell Hooks.",
-      "authors": ["AUTHORSOL2631291A"],
+      "authors": [
+        "AUTHORSOL2631291A"
+      ],
       "format": null,
       "date": "2005",
       "pages": 188,
@@ -1214,8 +1448,12 @@
     },
     "BOOKSOL27263590M": {
       "id": "BOOKSOL27263590M",
-      "covers": ["8753098.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/8753098-L.jpg"],
+      "covers": [
+        "8753098.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/8753098-L.jpg"
+      ],
       "title": "Giovanni's Room",
       "subtitle": null,
       "description": null,
@@ -1231,13 +1469,19 @@
     },
     "BOOKSOL22100309M": {
       "id": "BOOKSOL22100309M",
-      "covers": ["10129157.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10129157-L.jpg"],
+      "covers": [
+        "10129157.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10129157-L.jpg"
+      ],
       "title": "The fire next time",
       "subtitle": null,
       "description": null,
       "by": "James Baldwin.",
-      "authors": ["AUTHORSOL391839A"],
+      "authors": [
+        "AUTHORSOL391839A"
+      ],
       "format": null,
       "date": "1991",
       "pages": 106,
@@ -1248,13 +1492,19 @@
     },
     "BOOKSOL10311988M": {
       "id": "BOOKSOL10311988M",
-      "covers": ["12639324.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/12639324-L.jpg"],
+      "covers": [
+        "12639324.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/12639324-L.jpg"
+      ],
       "title": "The Undiscovered Paul Robeson, Volume II",
       "subtitle": null,
       "description": null,
       "by": "ROBESON",
-      "authors": ["AUTHORSOL2711203A"],
+      "authors": [
+        "AUTHORSOL2711203A"
+      ],
       "format": "Hardcover",
       "date": null,
       "pages": 400,
@@ -1265,8 +1515,12 @@
     },
     "BOOKSOL7613942M": {
       "id": "BOOKSOL7613942M",
-      "covers": ["302444.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/302444-L.jpg"],
+      "covers": [
+        "302444.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/302444-L.jpg"
+      ],
       "title": "The Undiscovered Paul Robeson , An Artist's Journey, 1898-1939",
       "subtitle": null,
       "description": null,
@@ -1288,7 +1542,9 @@
       "subtitle": "The Form and Function of Paul Robeson",
       "description": null,
       "by": "Shana L. Redmond",
-      "authors": ["AUTHORSOL7595190A"],
+      "authors": [
+        "AUTHORSOL7595190A"
+      ],
       "format": null,
       "date": "2020",
       "pages": 208,
@@ -1299,13 +1555,19 @@
     },
     "BOOKSOL7944992M": {
       "id": "BOOKSOL7944992M",
-      "covers": ["588166.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/588166-L.jpg"],
+      "covers": [
+        "588166.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/588166-L.jpg"
+      ],
       "title": "Here I Stand",
       "subtitle": null,
       "description": null,
       "by": "Paul Robeson",
-      "authors": ["AUTHORSOL819651A"],
+      "authors": [
+        "AUTHORSOL819651A"
+      ],
       "format": "Paperback",
       "date": "January 1, 1998",
       "pages": 160,
@@ -1322,7 +1584,9 @@
       "subtitle": "The Artist As Revolutionary",
       "description": null,
       "by": "Gerald Horne",
-      "authors": ["AUTHORSOL383617A"],
+      "authors": [
+        "AUTHORSOL383617A"
+      ],
       "format": null,
       "date": "2016",
       "pages": 256,
@@ -1335,8 +1599,12 @@
   "works": {
     "WORKSOL20025301W": {
       "id": "WORKSOL20025301W",
-      "covers": ["8881451.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/8881451-L.jpg"],
+      "covers": [
+        "8881451.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/8881451-L.jpg"
+      ],
       "title": "The South Side",
       "description": "\"Mayors Richard M. Daley and Rahm Emanuel have touted and promoted Chicago as a \"world class city.\" The skyscrapers kissing the clouds, the billion-dollar Millennium Park, Michelin-rated restaurants, pristine lake views, fabulous shopping, vibrant theater scene, downtown flower beds and stellar architecture tell one story. Yet, swept under the rug is the stench of segregation that compromises Chicago. The Manhattan Institute dubs Chicago as one of the most segregated big cities in the country. Though other cities - including Cleveland, Los Angeles, and Baltimore - can fight over that mantle, it's clear that segregation defines Chicago. And unlike many other major U.S. cities, no one race dominates. Chicago is divided equally into black, white, and Latino, each group clustered in their various turfs. In this intelligent and highly important narrative, Chicago-native Natalie Moore shines a light on contemporary segregation on the South Side of Chicago through reported essays, showing the life of these communities through the stories of people who live in them. The South Side shows the important impact of Chicago's historic segregation - and the ongoing policies that keep it that way\"--",
       "subjects": [
@@ -1360,11 +1628,17 @@
     },
     "WORKSOL22049448W": {
       "id": "WORKSOL22049448W",
-      "covers": ["10673464.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10673464-L.jpg"],
+      "covers": [
+        "10673464.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10673464-L.jpg"
+      ],
       "title": "Laziness Does Not Exist",
       "description": null,
-      "subjects": ["Psychology"],
+      "subjects": [
+        "Psychology"
+      ],
       "date": null,
       "key": "/works/OL22049448W"
     },
@@ -1421,7 +1695,10 @@
     },
     "WORKSOL1878022W": {
       "id": "WORKSOL1878022W",
-      "covers": ["609011.jpg", "609097.jpg"],
+      "covers": [
+        "609011.jpg",
+        "609097.jpg"
+      ],
       "coverUrls": [
         "https://covers.openlibrary.org/b/id/609011-L.jpg",
         "https://covers.openlibrary.org/b/id/609097-L.jpg"
@@ -1465,8 +1742,12 @@
     },
     "WORKSOL24520115W": {
       "id": "WORKSOL24520115W",
-      "covers": ["11149889.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/11149889-L.jpg"],
+      "covers": [
+        "11149889.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/11149889-L.jpg"
+      ],
       "title": "There Are Trans People Here",
       "description": null,
       "date": null,
@@ -1488,8 +1769,12 @@
     },
     "WORKSOL24221280W": {
       "id": "WORKSOL24221280W",
-      "covers": ["10683468.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10683468-L.jpg"],
+      "covers": [
+        "10683468.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10683468-L.jpg"
+      ],
       "title": "Even the Saints Audition",
       "description": null,
       "date": null,
@@ -1497,8 +1782,12 @@
     },
     "WORKSOL19761382W": {
       "id": "WORKSOL19761382W",
-      "covers": ["10367963.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10367963-L.jpg"],
+      "covers": [
+        "10367963.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10367963-L.jpg"
+      ],
       "title": "Ghosts in the schoolyard",
       "description": null,
       "subjects": [
@@ -1522,14 +1811,21 @@
       "coverUrls": [],
       "title": "Electric arches",
       "description": "Blending stark realism with the surreal and fantastic, Eve L. Ewings narrative takes us from the streets of 1990s Chicago to an unspecified future, deftly navigating the boundaries of space, time, and reality. Ewing imagines familiar figures in magical circumstancesblues legend Koko Taylor is a tall-tale hero; LeBron James travels through time and encounters his teenage self. She identifies everyday objectshair moisturizer, a spiral notebookas precious icons.",
-      "subjects": ["American poetry", "Poetry (poetic works by one author)"],
+      "subjects": [
+        "American poetry",
+        "Poetry (poetic works by one author)"
+      ],
       "date": null,
       "key": "/works/OL19719490W"
     },
     "WORKSOL2008346W": {
       "id": "WORKSOL2008346W",
-      "covers": ["38974.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/38974-L.jpg"],
+      "covers": [
+        "38974.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/38974-L.jpg"
+      ],
       "title": "Selected Poems (P.S.)",
       "description": null,
       "subjects": [
@@ -1542,8 +1838,12 @@
     },
     "WORKSOL20149336W": {
       "id": "WORKSOL20149336W",
-      "covers": ["8793546.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/8793546-L.jpg"],
+      "covers": [
+        "8793546.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/8793546-L.jpg"
+      ],
       "title": "Exhalation",
       "description": null,
       "subjects": [
@@ -1557,7 +1857,11 @@
     },
     "WORKSOL6216050W": {
       "id": "WORKSOL6216050W",
-      "covers": ["524046.jpg", "8741839.jpg", "8792038.jpg"],
+      "covers": [
+        "524046.jpg",
+        "8741839.jpg",
+        "8792038.jpg"
+      ],
       "coverUrls": [
         "https://covers.openlibrary.org/b/id/524046-L.jpg",
         "https://covers.openlibrary.org/b/id/8741839-L.jpg",
@@ -1576,18 +1880,29 @@
     },
     "WORKSOL20656911W": {
       "id": "WORKSOL20656911W",
-      "covers": ["10551252.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10551252-L.jpg"],
+      "covers": [
+        "10551252.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10551252-L.jpg"
+      ],
       "title": "Unworthy Republic: The Dispossession of Native Americans and the Road to Indian Territory",
       "description": null,
-      "subjects": ["New York Times reviewed", "United states, history"],
+      "subjects": [
+        "New York Times reviewed",
+        "United states, history"
+      ],
       "date": null,
       "key": "/works/OL20656911W"
     },
     "WORKSOL21005898W": {
       "id": "WORKSOL21005898W",
-      "covers": ["1539416.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/1539416-L.jpg"],
+      "covers": [
+        "1539416.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/1539416-L.jpg"
+      ],
       "title": "Subversive Southerner",
       "description": null,
       "subjects": [
@@ -1609,7 +1924,10 @@
     },
     "WORKSOL4975846W": {
       "id": "WORKSOL4975846W",
-      "covers": ["4744883.jpg", "777657.jpg"],
+      "covers": [
+        "4744883.jpg",
+        "777657.jpg"
+      ],
       "coverUrls": [
         "https://covers.openlibrary.org/b/id/4744883-L.jpg",
         "https://covers.openlibrary.org/b/id/777657-L.jpg"
@@ -1633,8 +1951,12 @@
     },
     "WORKSOL19753477W": {
       "id": "WORKSOL19753477W",
-      "covers": ["9185315.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/9185315-L.jpg"],
+      "covers": [
+        "9185315.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/9185315-L.jpg"
+      ],
       "title": "Looking for Lorraine",
       "description": "Lorraine Hansberry, who died at thirty-four, was by all accounts a force of nature. Although best-known for her work A Raisin in the Sun, her short life was full of extraordinary experiences and achievements, and she had an unflinching commitment to social justice, which brought her under FBI surveillance when she was barely in her twenties. While her close friends and contemporaries, like James Baldwin and Nina Simone, have been rightly celebrated, her story has been diminished and relegated to one work—until now. In 2018, Hansberry will get the recognition she deserves with the PBS American Masters documentary “Lorraine Hansberry: Sighted Eyes/Feeling Heart” and Imani Perry’s multi-dimensional, illuminating biography, Looking for Lorraine.\r\n\r\nAfter the success of A Raisin in the Sun, Hansberry used her prominence in myriad ways: challenging President Kennedy and his brother to take bolder stances on Civil Rights, supporting African anti-colonial leaders, and confronting the romantic racism of the Beat poets and Village hipsters. Though she married a man, she identified as lesbian and, risking censure and the prospect of being outed, joined one of the nation’s first lesbian organizations. Hansberry associated with many activists, writers, and musicians, including Malcolm X, Langston Hughes, Duke Ellington, Paul Robeson, W.E.B. Du Bois, among others. Looking for Lorraine is a powerful insight into Hansberry’s extraordinary life—a life that was tragically cut far too short.",
       "subjects": [
@@ -1658,8 +1980,12 @@
     },
     "WORKSOL17559282W": {
       "id": "WORKSOL17559282W",
-      "covers": ["7820146.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/7820146-L.jpg"],
+      "covers": [
+        "7820146.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/7820146-L.jpg"
+      ],
       "title": "The CounterRevolution of 1776",
       "description": null,
       "subjects": [
@@ -1681,7 +2007,10 @@
     },
     "WORKSOL2191789W": {
       "id": "WORKSOL2191789W",
-      "covers": ["10129207.jpg", "10138083.jpg"],
+      "covers": [
+        "10129207.jpg",
+        "10138083.jpg"
+      ],
       "coverUrls": [
         "https://covers.openlibrary.org/b/id/10129207-L.jpg",
         "https://covers.openlibrary.org/b/id/10138083-L.jpg"
@@ -1716,28 +2045,44 @@
     },
     "WORKSOL20078142W": {
       "id": "WORKSOL20078142W",
-      "covers": ["8750451.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/8750451-L.jpg"],
+      "covers": [
+        "8750451.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/8750451-L.jpg"
+      ],
       "title": "Our History Is the Future",
       "description": null,
-      "subjects": ["United states, history"],
+      "subjects": [
+        "United states, history"
+      ],
       "date": null,
       "key": "/works/OL20078142W"
     },
     "WORKSOL24209458W": {
       "id": "WORKSOL24209458W",
-      "covers": ["10657378.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10657378-L.jpg"],
+      "covers": [
+        "10657378.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10657378-L.jpg"
+      ],
       "title": "We Are Not Broken",
       "description": null,
-      "subjects": ["Sociology"],
+      "subjects": [
+        "Sociology"
+      ],
       "date": null,
       "key": "/works/OL24209458W"
     },
     "WORKSOL20728338W": {
       "id": "WORKSOL20728338W",
-      "covers": ["10706416.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10706416-L.jpg"],
+      "covers": [
+        "10706416.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10706416-L.jpg"
+      ],
       "title": "All Boys Aren't Blue",
       "description": "In a series of personal essays, prominent journalist and LGBTQIA+ activist George M. Johnson explores his childhood, adolescence, and college years in New Jersey and Virginia. From the memories of getting his teeth kicked out by bullies at age five, to flea marketing with his loving grandmother, to his first sexual relationships, this young-adult memoir weaves together the trials and triumphs faced by Black queer boys.\r\n\r\nBoth a primer for teens eager to be allies as well as a reassuring testimony for young queer men of color, All Boys Aren't Blue covers topics such as gender identity, toxic masculinity, brotherhood, family, structural marginalization, consent, and Black joy. Johnson's emotionally frank style of writing will appeal directly to young adults.",
       "subjects": [
@@ -1781,8 +2126,12 @@
     },
     "WORKSOL13826369W": {
       "id": "WORKSOL13826369W",
-      "covers": ["12287374.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/12287374-L.jpg"],
+      "covers": [
+        "12287374.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/12287374-L.jpg"
+      ],
       "title": "The new Jim Crow",
       "description": "This work argues that the War on Drugs and policies that deny convicted felons equal access to employment, housing, education, and public benefits create a permanent under caste based largely on race.As the United States celebrates the nation's \"triumph over race\" with the election of Barack Obama, the majority of young black men in major American cities are locked behind bars or have been labeled felons for life.  Although Jim Crow laws have been wiped off the books, an astounding percentage of the African American community remains trapped in a subordinate status - much like their grandparents before them.  In this incisive critique, former litigator-turned-legal-scholar Michelle Alexander provocatively argues that we have not ended racial caste in America:  we have simply redesigned it.  Alexander shows that, by targeting black men and decimating communities of color, the U.S. criminal justice system functions as a contemporary system of racial control, even as it formally adheres to the principle of color blindness. The New Jim Crow challenges the civil rights community - and all of us - to place mass incarceration at the forefront of a new movement for racial justice in America.",
       "subjects": [
@@ -1814,7 +2163,11 @@
     },
     "WORKSOL3110336W": {
       "id": "WORKSOL3110336W",
-      "covers": ["653980.jpg", "8061168.jpg", "8413248.jpg"],
+      "covers": [
+        "653980.jpg",
+        "8061168.jpg",
+        "8413248.jpg"
+      ],
       "coverUrls": [
         "https://covers.openlibrary.org/b/id/653980-L.jpg",
         "https://covers.openlibrary.org/b/id/8061168-L.jpg",
@@ -1822,14 +2175,21 @@
       ],
       "title": "To Die for the People",
       "description": "Long an iconic figure for radicals, Huey Newton is now being discovered by those interested in the history of America’s social movements. This new release of a classic collection of his writings and speeches traces the development of Newton’s personal and political thinking, as well as the radical changes that took place in the formative years of the Black Panther Party. More than just a historic record, Newton’s prescience and foresight make these documents strikingly pertinent today.\r\n\r\nHuey Newton was the founder, leader, and chief theoretician of the Black Panther Party, and one of America’s most dynamic and important revolutionary philosophers.",
-      "subjects": ["Black Panther Party", "Black panther party"],
+      "subjects": [
+        "Black Panther Party",
+        "Black panther party"
+      ],
       "date": "1972",
       "key": "/works/OL3110336W"
     },
     "WORKSOL20801210W": {
       "id": "WORKSOL20801210W",
-      "covers": ["10098209.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10098209-L.jpg"],
+      "covers": [
+        "10098209.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10098209-L.jpg"
+      ],
       "title": "Disability Visibility",
       "description": null,
       "subjects": [
@@ -1842,8 +2202,12 @@
     },
     "WORKSOL20892439W": {
       "id": "WORKSOL20892439W",
-      "covers": ["10224051.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10224051-L.jpg"],
+      "covers": [
+        "10224051.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10224051-L.jpg"
+      ],
       "title": "Mutual Aid",
       "description": null,
       "date": null,
@@ -1851,7 +2215,10 @@
     },
     "WORKSOL69181W": {
       "id": "WORKSOL69181W",
-      "covers": ["6630144.jpg", "8247724.jpg"],
+      "covers": [
+        "6630144.jpg",
+        "8247724.jpg"
+      ],
       "coverUrls": [
         "https://covers.openlibrary.org/b/id/6630144-L.jpg",
         "https://covers.openlibrary.org/b/id/8247724-L.jpg"
@@ -1891,7 +2258,9 @@
       "coverUrls": [],
       "title": "Sam Cooke's Live at the Harlem Square Club 1963",
       "description": null,
-      "subjects": ["Music, history and criticism"],
+      "subjects": [
+        "Music, history and criticism"
+      ],
       "date": null,
       "key": "/works/OL21698842W"
     },
@@ -1912,8 +2281,12 @@
     },
     "WORKSOL25035617W": {
       "id": "WORKSOL25035617W",
-      "covers": ["11947731.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/11947731-L.jpg"],
+      "covers": [
+        "11947731.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/11947731-L.jpg"
+      ],
       "title": "The Red Deal",
       "description": null,
       "date": null,
@@ -1921,8 +2294,12 @@
     },
     "WORKSOL2709370W": {
       "id": "WORKSOL2709370W",
-      "covers": ["10129501.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10129501-L.jpg"],
+      "covers": [
+        "10129501.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10129501-L.jpg"
+      ],
       "title": "Are Prisons Obsolete?",
       "description": null,
       "subjects": [
@@ -1946,8 +2323,12 @@
     },
     "WORKSOL24217442W": {
       "id": "WORKSOL24217442W",
-      "covers": ["10675199.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10675199-L.jpg"],
+      "covers": [
+        "10675199.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10675199-L.jpg"
+      ],
       "title": "Virtue Hoarders",
       "description": null,
       "date": null,
@@ -1955,8 +2336,12 @@
     },
     "WORKSOL24147437W": {
       "id": "WORKSOL24147437W",
-      "covers": ["10546494.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10546494-L.jpg"],
+      "covers": [
+        "10546494.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10546494-L.jpg"
+      ],
       "title": "Trans Care",
       "description": "What does it mean for trans people to show up for one another, to care deeply for one another? How have failures of care shaped trans lives? What care practices have trans subjects and communities cultivated in the wake of widespread transphobia and systemic forms of trans exclusion? \r\n\r\nTrans Care is a critical intervention in how care labor and care ethics have been thought, arguing that dominant modes of conceiving and critiquing the politics and distribution of care entrench normative and cis-centric familial structures and gendered arrangements. A serious consideration of trans survival and flourishing requires a radical rethinking of how care operates.",
       "subjects": [
@@ -1978,21 +2363,35 @@
     },
     "WORKSOL20357602W": {
       "id": "WORKSOL20357602W",
-      "covers": ["9024229.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/9024229-L.jpg"],
+      "covers": [
+        "9024229.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/9024229-L.jpg"
+      ],
       "title": "The Mexican Revolution",
       "description": null,
-      "subjects": ["Mexico, history, revolution, 1910-1920", "History"],
+      "subjects": [
+        "Mexico, history, revolution, 1910-1920",
+        "History"
+      ],
       "date": null,
       "key": "/works/OL20357602W"
     },
     "WORKSOL21221592W": {
       "id": "WORKSOL21221592W",
-      "covers": ["10352183.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10352183-L.jpg"],
+      "covers": [
+        "10352183.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10352183-L.jpg"
+      ],
       "title": "Freedom is a Constant Struggle",
       "description": "Activist, teacher, author and icon of the Black Power movement Angela Davis talks Ferguson, Palestine, and prison abolition.",
-      "subjects": ["Civil rights", "Political persecution"],
+      "subjects": [
+        "Civil rights",
+        "Political persecution"
+      ],
       "date": null,
       "key": "/works/OL21221592W"
     },
@@ -2043,8 +2442,12 @@
     },
     "WORKSOL22471540W": {
       "id": "WORKSOL22471540W",
-      "covers": ["10467926.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10467926-L.jpg"],
+      "covers": [
+        "10467926.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10467926-L.jpg"
+      ],
       "title": "We Still Here",
       "description": null,
       "date": null,
@@ -2052,8 +2455,12 @@
     },
     "WORKSOL19722079W": {
       "id": "WORKSOL19722079W",
-      "covers": ["10088774.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10088774-L.jpg"],
+      "covers": [
+        "10088774.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10088774-L.jpg"
+      ],
       "title": "How we get free",
       "description": "The Combahee River Collective, a path-breaking group of radical black feminists, was one of the most important organizations to develop out of the antiracist and women’s liberation movements of the 1960s and 70s. In this collection of essays and interviews edited by activist-scholar Keeanga-Yamahtta Taylor, founding members of the organization and contemporary activists reflect on the legacy of its contributions to Black feminism and its impact on today’s struggles.",
       "subjects": [
@@ -2076,8 +2483,12 @@
     },
     "WORKSOL20865104W": {
       "id": "WORKSOL20865104W",
-      "covers": ["10182350.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/10182350-L.jpg"],
+      "covers": [
+        "10182350.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/10182350-L.jpg"
+      ],
       "title": "The End of White World Supremacy",
       "description": null,
       "subjects": [
@@ -2111,7 +2522,12 @@
     },
     "WORKSOL20652336W": {
       "id": "WORKSOL20652336W",
-      "covers": ["9295645.jpg", "10153776.jpg", "10302667.jpg", "10459060.jpg"],
+      "covers": [
+        "9295645.jpg",
+        "10153776.jpg",
+        "10302667.jpg",
+        "10459060.jpg"
+      ],
       "coverUrls": [
         "https://covers.openlibrary.org/b/id/9295645-L.jpg",
         "https://covers.openlibrary.org/b/id/10153776-L.jpg",
@@ -2136,8 +2552,12 @@
     },
     "WORKSOL25330813W": {
       "id": "WORKSOL25330813W",
-      "covers": ["12602632.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/12602632-L.jpg"],
+      "covers": [
+        "12602632.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/12602632-L.jpg"
+      ],
       "title": "Darkwater",
       "description": null,
       "date": null,
@@ -2145,7 +2565,11 @@
     },
     "WORKSOL2191767W": {
       "id": "WORKSOL2191767W",
-      "covers": ["3239660.jpg", "926140.jpg", "5346786.jpg"],
+      "covers": [
+        "3239660.jpg",
+        "926140.jpg",
+        "5346786.jpg"
+      ],
       "coverUrls": [
         "https://covers.openlibrary.org/b/id/3239660-L.jpg",
         "https://covers.openlibrary.org/b/id/926140-L.jpg",
@@ -2179,8 +2603,12 @@
     },
     "WORKSOL17201654W": {
       "id": "WORKSOL17201654W",
-      "covers": ["11328078.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/11328078-L.jpg"],
+      "covers": [
+        "11328078.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/11328078-L.jpg"
+      ],
       "title": "Between the World and Me",
       "description": "Between the World and Me is a 2015 nonfiction book written by American author Ta-Nehisi Coates and published by Spiegel & Grau. It is written as a letter to the author's teenage son about the feelings, symbolism, and realities associated with being Black in the United States. Coates recapitulates American history and explains to his son the \"racist violence that has been woven into American culture.\" Coates draws from an abridged, autobiographical account of his youth in Baltimore, detailing the ways in which institutions like the school, the police, and even \"the streets\" discipline, endanger, and threaten to disembody black men and women. The work takes structural and thematic inspiration from James Baldwin's 1963 epistolary book The Fire Next Time. Unlike Baldwin, Coates sees white supremacy as an indestructible force, one that Black Americans will never evade or erase, but will always struggle against.\r\n\r\nThe novelist Toni Morrison wrote that Coates filled an intellectual gap in succession to James Baldwin. Editors of The New York Times and The New Yorker described the book as exceptional. The book won the 2015 National Book Award for Nonfiction and was a finalist for the 2016 Pulitzer Prize for General Non-Fiction.",
       "subjects": [
@@ -2253,7 +2681,10 @@
     },
     "WORKSOL31119W": {
       "id": "WORKSOL31119W",
-      "covers": ["477610.jpg", "10491292.jpg"],
+      "covers": [
+        "477610.jpg",
+        "10491292.jpg"
+      ],
       "coverUrls": [
         "https://covers.openlibrary.org/b/id/477610-L.jpg",
         "https://covers.openlibrary.org/b/id/10491292-L.jpg"
@@ -2340,7 +2771,10 @@
     },
     "WORKSOL2683364W": {
       "id": "WORKSOL2683364W",
-      "covers": ["97232.jpg", "6500539.jpg"],
+      "covers": [
+        "97232.jpg",
+        "6500539.jpg"
+      ],
       "coverUrls": [
         "https://covers.openlibrary.org/b/id/97232-L.jpg",
         "https://covers.openlibrary.org/b/id/6500539-L.jpg"
@@ -2372,8 +2806,12 @@
     },
     "WORKSOL8136021W": {
       "id": "WORKSOL8136021W",
-      "covers": ["12639324.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/12639324-L.jpg"],
+      "covers": [
+        "12639324.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/12639324-L.jpg"
+      ],
       "title": "The Undiscovered Paul Robeson, Volume II",
       "description": null,
       "subjects": [
@@ -2421,8 +2859,12 @@
     },
     "WORKSOL4254535W": {
       "id": "WORKSOL4254535W",
-      "covers": ["588165.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/588165-L.jpg"],
+      "covers": [
+        "588165.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/588165-L.jpg"
+      ],
       "title": "Here I stand",
       "description": null,
       "subjects": [
@@ -2441,8 +2883,12 @@
     },
     "WORKSOL20472752W": {
       "id": "WORKSOL20472752W",
-      "covers": ["9137444.jpg"],
-      "coverUrls": ["https://covers.openlibrary.org/b/id/9137444-L.jpg"],
+      "covers": [
+        "9137444.jpg"
+      ],
+      "coverUrls": [
+        "https://covers.openlibrary.org/b/id/9137444-L.jpg"
+      ],
       "title": "Paul Robeson",
       "description": null,
       "subjects": [

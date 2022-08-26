@@ -1,91 +1,463 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Books</title>
-    <style>
-      body {
-        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-          Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
-          sans-serif;
-        margin: 0;
-      }
-      main {
-        align-items: center;
-        box-sizing: border-box;
-        display: flex;
-        flex-wrap: wrap;
-        gap: 2rem;
-        justify-content: center;
-        padding: 2rem;
-      }
-      main div {
-        text-align: center;
-        width: 200px;
-      }
-      h1 {
-        font-size: 1.4rem;
-      }
-      h2 {
-        font-size: 1rem;
-      }
-      h1,
-      p {
-        margin: 0;
-      }
-      main div > * + * {
-        margin-top: 0.5rem;
-      }
-      img {
-        height: auto;
-        width: 200px;
-      }
-    </style>
-  </head>
-  <body>
-    <main></main>
-    <script>
-      const main = document.querySelector("main");
 
-      initialize();
+  <!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <meta charset="UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Books</title>
+      <link rel="stylesheet" href="app.css" />
+    </head>
+    <body>
+      <main>
+      
+<div>
+<img src="media/12729697.jpg" />
+<h1>The South Side</h1>
+<p><em>a portrait of Chicago and American segregation</em></p>
+<h2>Natalie Y. Moore</h2>
+<p>2016  250</p>
+</div>
 
-      async function initialize() {
-        const data = await (await fetch("./data.json")).json();
-        Object.values(data.books).forEach(renderBook);
+<div>
+<img src="media/10673464.jpg" />
+<h1>Laziness Does Not Exist</h1>
 
-        function renderBook({
-          id,
-          covers,
-          coverUrls,
-          title,
-          subtitle,
-          description,
-          by,
-          authors,
-          format,
-          date,
-          pages,
-          isbn,
-          work,
-          source,
-          key,
-        }) {
-          const div = document.createElement("div");
-          main.appendChild(div);
-          const works = data.works[work];
-          const cover = [...covers, ...works.covers].filter(Boolean)[0];
-          const img = cover ? `<img src="media/${cover}" />` : "";
-          div.innerHTML = `
-      ${img}
-      <h1>${title}</h1>
-      ${subtitle ? `<p><em>${subtitle}</em></p>` : ""}
-      ${by ? `<h2>${by}</h2>` : ""}
-      <p>${date || ""} ${format || ""} ${pages || ""}</p>
-    `;
-        }
-      }
-    </script>
-  </body>
-</html>
+<h2>DeVon Price</h2>
+<p>2021  256</p>
+</div>
+
+<div>
+<span class"img"></span>
+<h1>Queer and trans artists of color</h1>
+
+<h2>interviews by Nia King ; edited by Elena Rose</h2>
+<p>2016  231</p>
+</div>
+
+<div>
+<span class"img"></span>
+<h1>All the women are white, all the blacks are men, but some of us are brave</h1>
+<p><em>Black women's studies</em></p>
+<h2>edited by Akasha (Gloria T.) Hull, Patricia Bell-Scott & Barbara Smith ; new afterword by Brittney Cooper</h2>
+<p>2015  413</p>
+</div>
+
+<div>
+<span class"img"></span>
+<h1>This Bridge Called My Back Fortie</h1>
+
+<h2>MORAGA ANZALDUA</h2>
+<p>2022  </p>
+</div>
+
+<div>
+<span class"img"></span>
+<h1>Energy Never Dies</h1>
+<p><em>Afro-Optimism and Creativity in Chicago</em></p>
+<h2>Ayana Contreras</h2>
+<p>2021  192</p>
+</div>
+
+<div>
+<img src="media/609097.jpg" />
+<h1>The Truth That Never Hurts</h1>
+<p><em>Writings on Race, Gender, and Freedom</em></p>
+<h2>Barbara Smith</h2>
+<p>September 2000 Paperback 240</p>
+</div>
+
+<div>
+<img src="media/11149890.jpg" />
+<h1>There Are Trans People Here</h1>
+
+<h2>H. Melt</h2>
+<p>Nov 16, 2021 paperback 100</p>
+</div>
+
+<div>
+<span class"img"></span>
+<h1>A people's history of Chicago</h1>
+
+<h2>Kevin Coval ; foreword by Chance the Rapper</h2>
+<p>2017  135</p>
+</div>
+
+<div>
+<img src="media/10683468.jpg" />
+<h1>Even the Saints Audition</h1>
+
+<h2>Raych Jackson</h2>
+<p>Sep 24, 2019 paperback 96</p>
+</div>
+
+<div>
+<img src="media/10367963.jpg" />
+<h1>Ghosts in the Schoolyard</h1>
+<p><em>Racism and School Closings on Chicago's South Side</em></p>
+<h2>Eve L. Ewing</h2>
+<p>Apr 10, 2020 paperback 240</p>
+</div>
+
+<div>
+<span class"img"></span>
+<h1>Electric arches</h1>
+
+<h2>Eve L. Ewing</h2>
+<p>2017  90</p>
+</div>
+
+<div>
+<img src="media/38974.jpg" />
+<h1>Selected Poems (P.S.)</h1>
+
+<h2>Gwendolyn Brooks</h2>
+<p>July 3, 2006  176</p>
+</div>
+
+<div>
+<img src="media/10113848.jpg" />
+<h1>Exhalation</h1>
+
+<h2>Ted Chiang</h2>
+<p>Jun 30, 2020 paperback 368</p>
+</div>
+
+<div>
+<img src="media/8885976.jpg" />
+<h1>Stories of Your Life and Others</h1>
+
+
+<p>2016 Trade paperback 285</p>
+</div>
+
+<div>
+<img src="media/10551252.jpg" />
+<h1>Unworthy Republic: The Dispossession of Native Americans and the Road to Indian Territory</h1>
+
+
+<p>2020  </p>
+</div>
+
+<div>
+<img src="media/1539416.jpg" />
+<h1>Subversive Southerner</h1>
+<p><em>Anne Braden And the Struggle for Racial Justice in the Cold War South (Civil Rights and the Struggle for Black Equality in the Twentieth Century)</em></p>
+<h2>Catherine Fosl, Angela Y. Davis</h2>
+<p>August 2006 Paperback 418</p>
+</div>
+
+<div>
+<img src="media/777656.jpg" />
+<h1>Assata</h1>
+<p><em>An Autobiography (Lawrence Hill & Co.)</em></p>
+<h2>Assata Shakur</h2>
+<p>November 1, 2001 Paperback 320</p>
+</div>
+
+<div>
+<img src="media/11488324.jpg" />
+<h1>Looking for Lorraine</h1>
+<p><em>The Radiant and Radical Life of Lorraine Hansberry</em></p>
+<h2>Imani Perry</h2>
+<p>2019 Paperback 256</p>
+</div>
+
+<div>
+<img src="media/8897033.jpg" />
+<h1>The Counter-Revolution of 1776</h1>
+<p><em>Slave Resistance and the Origins of the United States of America</em></p>
+<h2>Gerald Horne</h2>
+<p>Sep 01, 2016 paperback 363</p>
+</div>
+
+<div>
+<img src="media/1940446.jpg" />
+<h1>Sister Outsider</h1>
+<p><em>Essays and Speeches (Crossing Press Feminist Series)</em></p>
+<h2>Audre Lorde</h2>
+<p>August 2007 Paperback 190</p>
+</div>
+
+<div>
+<img src="media/8750451.jpg" />
+<h1>Our History Is the Future</h1>
+<p><em>Standing Rock Versus the Dakota Access Pipeline, and the Long Tradition of Indigenous Resistance</em></p>
+<h2>Nick Estes</h2>
+<p>Mar 05, 2019 hardcover 320</p>
+</div>
+
+<div>
+<img src="media/10657378.jpg" />
+<h1>We Are Not Broken</h1>
+
+<h2>George M. Johnson</h2>
+<p>Sep 07, 2021 hardcover 320</p>
+</div>
+
+<div>
+<img src="media/11305725.jpg" />
+<h1>All Boys Aren't Blue</h1>
+
+<h2>George M. Johnson</h2>
+<p>2020  288</p>
+</div>
+
+<div>
+<span class"img"></span>
+<h1>Ain't I a woman</h1>
+<p><em>Black women and feminism</em></p>
+<h2>bell hooks</h2>
+<p>2015  205</p>
+</div>
+
+<div>
+<img src="media/10091746.jpg" />
+<h1>The New Jim Crow</h1>
+<p><em>Mass Incarceration in the Age of Colorblindness</em></p>
+<h2>Michelle Alexander</h2>
+<p>Jan 07, 2020 paperback 352</p>
+</div>
+
+<div>
+<img src="media/8061168.jpg" />
+<h1>To Die for the People</h1>
+
+
+<p>2009  </p>
+</div>
+
+<div>
+<img src="media/10098209.jpg" />
+<h1>Disability Visibility</h1>
+<p><em>First-Person Stories from the Twenty-First Century</em></p>
+<h2>Alice Wong</h2>
+<p>Jun 30, 2020 paperback 336</p>
+</div>
+
+<div>
+<img src="media/10224051.jpg" />
+<h1>Mutual Aid</h1>
+<p><em>Building Solidarity During This Crisis</em></p>
+<h2>Dean Spade</h2>
+<p>Oct 27, 2020 paperback 128</p>
+</div>
+
+<div>
+<img src="media/295851.jpg" />
+<h1>Narrative of the life of Frederick Douglass</h1>
+<p><em>an American slave</em></p>
+<h2>written by himself ; with an introduction by Peter J. Gomes and a new afterword by Gregory Stephens.</h2>
+<p>2005  144</p>
+</div>
+
+<div>
+<span class"img"></span>
+<h1>Sam Cooke's Live at the Harlem Square Club 1963</h1>
+
+<h2>Colin Fleming</h2>
+<p>2021  152</p>
+</div>
+
+<div>
+<span class"img"></span>
+<h1>Amazing grace</h1>
+
+<h2>Aaron Cohen</h2>
+<p>2011  166</p>
+</div>
+
+<div>
+<img src="media/11947731.jpg" />
+<h1>The Red Deal</h1>
+<p><em>Indigenous Action to Save Our Earth</em></p>
+<h2>The Red Nation</h2>
+<p>Apr 20, 2021 paperback 144</p>
+</div>
+
+<div>
+<img src="media/10129501.jpg" />
+<h1>Are Prisons Obsolete?</h1>
+
+<h2>Angela Y. Davis</h2>
+<p>April 2003 Paperback 128</p>
+</div>
+
+<div>
+<img src="media/10675199.jpg" />
+<h1>Virtue Hoarders</h1>
+<p><em>The Case Against the Professional Managerial Class</em></p>
+
+<p>2021  </p>
+</div>
+
+<div>
+<img src="media/10546494.jpg" />
+<h1>Trans Care</h1>
+
+<h2>Hil Malatino</h2>
+<p>Sep 01, 2020 paperback 72</p>
+</div>
+
+<div>
+<span class"img"></span>
+<h1>Ain't I a Woman?</h1>
+
+<h2>Sojourner Truth</h2>
+<p>2020  128</p>
+</div>
+
+<div>
+<img src="media/9024229.jpg" />
+<h1>The Mexican Revolution</h1>
+<p><em>A Short History 1910-1920</em></p>
+<h2>Stuart Easterling</h2>
+<p>Feb 05, 2013 paperback 180</p>
+</div>
+
+<div>
+<img src="media/10352183.jpg" />
+<h1>Freedom is a Constant Struggle</h1>
+<p><em>Ferguson, Palestine, and the Foundations of a Movement</em></p>
+
+<p>2015 Paperback 176</p>
+</div>
+
+<div>
+<img src="media/8737401.jpg" />
+<h1>Men Explain Things to Me</h1>
+
+<h2>Rebecca Solnit</h2>
+<p>Sep 01, 2015  176</p>
+</div>
+
+<div>
+<img src="media/10467926.jpg" />
+<h1>We Still Here</h1>
+<p><em>Pandemic, Policing, Protest and Possibility</em></p>
+<h2>Marc Lamont Hill, Frank Barat, Keeanga-Yamahtta Taylor</h2>
+<p>Nov 10, 2020 paperback 128</p>
+</div>
+
+<div>
+<img src="media/11488331.jpg" />
+<h1>How we get free</h1>
+<p><em>black feminism and the Combahee River Collective</em></p>
+<h2>edited and introduced by Keeanga-Yamahtta Taylor</h2>
+<p>2017 Paperback 191</p>
+</div>
+
+<div>
+<img src="media/10182350.jpg" />
+<h1>The End of White World Supremacy</h1>
+<p><em>Four Speeches</em></p>
+<h2>Malcolm X, Imam Benjamin Karim</h2>
+<p>Feb 11, 2020 paperback 168</p>
+</div>
+
+<div>
+<span class"img"></span>
+<h1>Ecosocialism</h1>
+<p><em>a radical alternative to capitalist catastrophe</em></p>
+<h2>Michael Löwy</h2>
+<p>2015  120</p>
+</div>
+
+<div>
+<img src="media/10681161.jpg" />
+<h1>Hood Feminism</h1>
+<p><em>Notes from the Women That a Movement Forgot</em></p>
+<h2>Mikki Kendall</h2>
+<p>Feb 23, 2021 paperback 288</p>
+</div>
+
+<div>
+<img src="media/12602632.jpg" />
+<h1>Darkwater</h1>
+<p><em>Voices from Within the Veil</em></p>
+<h2>W. E. B. Du Bois, Honorée Fanonne Jeffers</h2>
+<p>2021  </p>
+</div>
+
+<div>
+<img src="media/10544146.jpg" />
+<h1>Cancer Journals</h1>
+
+<h2>Audre Lorde, Tracy K. Smith</h2>
+<p>2020  96</p>
+</div>
+
+<div>
+<img src="media/11445546.jpg" />
+<h1>Between the World and Me</h1>
+
+
+<p>2015 Hardcover 152</p>
+</div>
+
+<div>
+<img src="media/9455438.jpg" />
+<h1>The will to change</h1>
+<p><em>men, masculinity, and love</em></p>
+<h2>Bell Hooks.</h2>
+<p>2005  188</p>
+</div>
+
+<div>
+<img src="media/8753098.jpg" />
+<h1>Giovanni's Room</h1>
+
+
+<p>1956  </p>
+</div>
+
+<div>
+<img src="media/10129157.jpg" />
+<h1>The fire next time</h1>
+
+<h2>James Baldwin.</h2>
+<p>1991  106</p>
+</div>
+
+<div>
+<img src="media/12639324.jpg" />
+<h1>The Undiscovered Paul Robeson, Volume II</h1>
+
+<h2>ROBESON</h2>
+<p> Hardcover 400</p>
+</div>
+
+<div>
+<img src="media/302444.jpg" />
+<h1>The Undiscovered Paul Robeson , An Artist's Journey, 1898-1939</h1>
+
+
+<p>March 2, 2001  400</p>
+</div>
+
+<div>
+<span class"img"></span>
+<h1>Everything Man</h1>
+<p><em>The Form and Function of Paul Robeson</em></p>
+<h2>Shana L. Redmond</h2>
+<p>2020  208</p>
+</div>
+
+<div>
+<img src="media/588166.jpg" />
+<h1>Here I Stand</h1>
+
+<h2>Paul Robeson</h2>
+<p>January 1, 1998 Paperback 160</p>
+</div>
+
+<div>
+<img src="media/9137444.jpg" />
+<h1>Paul Robeson</h1>
+<p><em>The Artist As Revolutionary</em></p>
+<h2>Gerald Horne</h2>
+<p>2016  256</p>
+</div>
+      </main>
+    </body>
+    </html>
