@@ -106,7 +106,7 @@ function renderBook({
   const cover = [...covers, ...works.covers].filter(Boolean)[0];
   const img = cover
     ? `<img src="media/${cover}" />`
-    : `<span class"img"></span>`;
+    : `<span class="img"></span>`;
   return `
 <div>
 ${img}
