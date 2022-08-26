@@ -62,8 +62,18 @@ async function processISBN() {
   }
 }
 
-processISBN().then(() => {
+if (isbns.length) {
+  processISBN().then(renderData);
+} else {
+  renderData();
+}
+
+function renderData() {
   console.log(isbns.length, failedIsbns.length);
+  const html = Object.values(data.books)
+    .map(renderBook)
+    .sort(() => Math.random() - 0.5)
+    .join("\n");
   fs.writeFileSync(
     "index.html",
     `
@@ -78,12 +88,12 @@ processISBN().then(() => {
     </head>
     <body>
       <main>
-      ${Object.values(data.books).map(renderBook).join("\n")}
+      ${html}
       </main>
     </body>
     </html>`
   );
-});
+}
 
 function renderBook({
   id,
