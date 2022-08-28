@@ -121,8 +121,7 @@ function renderBook({
   return `
 <div class="${data.read[work] ? "read" : data.reading[work] ? "reading" : ""}">
 ${img}
-<h1>${works.title || title}</h1>
-${subtitle ? `<p><em>${subtitle}</em></p>` : ""}
+<h1>${works.title || title}${subtitle ? `: ${subtitle}` : ""}</h1>
 ${by ? `<p>${by}</p>` : ""}
 <p><small>${works.date || date || ""} ${format || ""} ${pages || ""}</small></p>
 </div>`;
