@@ -72,7 +72,7 @@ function renderData() {
   console.log(isbns.length, failedIsbns.length);
   const html = Object.values(data.books)
     .map(renderBook)
-    .sort(() => Math.random() - 0.5)
+    // .sort(() => Math.random() - 0.5)
     .join("\n");
   fs.writeFileSync(
     "index.html",
