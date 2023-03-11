@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+body {
+  font-family: "Courier New", Courier, monospace;
+  margin: 0;
+}
+
+main {
+  padding: 1rem;
+}
+
+main > * + * {
+  margin-top: 3rem;
+}
+
+#books {
+  /* display: none; */
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+}
+
+#books img {
+  display: block;
+  height: 10rem;
+  width: auto;
+}
+
+@media screen and (min-width: 600px) {
+  #books {
+    gap: 0rem;
+  }
+  #books img {
+    height: 20rem;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  #books img {
+    height: 30rem;
+  }
+}
