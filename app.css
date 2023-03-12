@@ -7,10 +7,6 @@ body {
   margin: 0;
 }
 
-main > * + * {
-  margin-top: 3rem;
-}
-
 #books {
   display: flex;
   flex-wrap: wrap;
@@ -18,7 +14,6 @@ main > * + * {
 }
 
 #books > div {
-  background: black;
   display: flex;
   justify-content: center;
   width: 100%;
@@ -28,12 +23,32 @@ main > * + * {
   height: auto;
   object-fit: cover;
   object-position: center;
-  opacity: 0.1;
+  opacity: 0;
   transition: opacity 200ms ease-in-out;
   vertical-align: middle;
   width: 100%;
 }
 
 #books img.loaded {
+  height: auto;
   opacity: 1;
+  width: 100%;
+}
+
+header > * + *,
+footer > * + * {
+  margin-top: 3rem;
+}
+
+header,
+footer {
+  padding: 3rem 0;
+}
+
+header > p,
+footer > p {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 400px;
+  width: 90%;
 }
