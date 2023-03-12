@@ -7,39 +7,33 @@ body {
   margin: 0;
 }
 
-main {
-  padding: 1rem;
-}
-
 main > * + * {
   margin-top: 3rem;
 }
 
 #books {
-  /* display: none; */
   display: flex;
   flex-wrap: wrap;
-  gap: 0.5rem;
   justify-content: center;
 }
 
+#books > div {
+  background: black;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
 #books img {
-  display: block;
-  height: 10rem;
-  width: auto;
+  height: auto;
+  object-fit: cover;
+  object-position: center;
+  opacity: 0.1;
+  transition: opacity 200ms ease-in-out;
+  vertical-align: middle;
+  width: 100%;
 }
 
-@media screen and (min-width: 600px) {
-  #books {
-    gap: 0rem;
-  }
-  #books img {
-    height: 20rem;
-  }
-}
-
-@media screen and (min-width: 1024px) {
-  #books img {
-    height: 30rem;
-  }
+#books img.loaded {
+  opacity: 1;
 }
