@@ -4,7 +4,15 @@
 }
 body {
   font-family: "Courier New", Courier, monospace;
+  font-size: 1rem;
+  line-height: 1.4;
   margin: 0;
+}
+
+@media (min-width: 700px) {
+  body {
+    font-size: 1.2rem;
+  }
 }
 
 #books {
@@ -41,15 +49,25 @@ footer > * + * {
   margin-top: 3rem;
 }
 
-header,
-footer {
-  padding: 3rem 0;
-}
-
 header > p,
 footer > p {
   margin-left: auto;
   margin-right: auto;
-  max-width: 400px;
+  max-width: 500px;
   width: 90%;
+}
+
+header {
+  min-height: 100vh;
+}
+footer {
+  min-height: 100vh;
+}
+
+header,
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 3rem 0;
 }
