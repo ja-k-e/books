@@ -16,7 +16,7 @@ body {
 }
 
 #books {
-  background: black;
+  background: #f0f0f0;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -28,13 +28,16 @@ body {
   width: 100%;
 }
 
+#books > div > div {
+  display: flex;
+}
+
 #books img {
   height: auto;
   object-fit: cover;
   object-position: center;
   opacity: 0;
   transition: opacity 200ms ease-in-out;
-  vertical-align: middle;
   width: 100%;
 }
 
