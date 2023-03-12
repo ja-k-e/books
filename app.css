@@ -8,6 +8,7 @@ body {
 }
 
 #books {
+  background: black;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
