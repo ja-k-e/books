@@ -1,9 +1,9 @@
 const books = document.getElementById("books");
 const bookCount = books.children.length;
 
-// for (let i = bookCount; i >= 0; i--) {
-//   books.appendChild(books.children[(Math.random() * i) | 0]);
-// }
+for (let i = bookCount; i >= 0; i--) {
+  books.appendChild(books.children[(Math.random() * i) | 0]);
+}
 
 reflow();
 window.addEventListener("resize", debounce(reflow));
