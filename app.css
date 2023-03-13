@@ -40,7 +40,6 @@ a {
   height: auto;
   object-fit: cover;
   object-position: center;
-  opacity: 0;
   transition: opacity 200ms ease-in-out;
   width: 100%;
 }
