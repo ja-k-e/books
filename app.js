@@ -19,16 +19,26 @@ function debounce(func) {
 function reflow() {
   const images = books.querySelectorAll("img");
   const w = window.innerWidth;
-  const originalSize = w < 600 ? 3 : w < 1024 ? 5 : w < 1400 ? 7 : 9;
+  const sizeMax = w < 600 ? 4 : w < 1024 ? 6 : w < 1400 ? 8 : 10;
+  const sizeMin = Math.max(3, Math.floor(sizeMax * 0.8));
   const totalCount = images.length;
   let remaining = totalCount;
-  let size = originalSize;
-  for (let i = 0; i < totalCount; i += size) {
+  let size = sizeMax;
+  let sizeUnchanged = false;
+  for (let i = 0; i < totalCount; i += size || 1) {
     const div = document.createElement("div");
+    size =
+      remaining && remaining <= sizeMax
+        ? remaining
+        : Math.round(Math.random() * (sizeMax - sizeMin) + sizeMin);
+    // size = Math.round(Math.random() * (sizeMax - sizeMin) + sizeMin);
     books.appendChild(div);
     remaining -= size;
-    if (remaining > 0 && remaining < size && size === originalSize) {
-      size = Math.ceil((remaining + size) / 2);
+    if (remaining > 0 && remaining < sizeMax && !sizeUnchanged) {
+      let newRemaining = remaining + size;
+      size = Math.min(sizeMax, Math.ceil((remaining + size) / 2));
+      sizeUnchanged = true;
+      remaining = newRemaining - size;
     }
     for (let j = 0; j < size; j++) {
       const node = images[i + j];
@@ -48,4 +58,8 @@ function reflow() {
   books.querySelectorAll("div:empty").forEach((div) => {
     div.remove();
   });
+  const rowCount = books.children.length;
+  for (let i = rowCount; i >= 0; i--) {
+    books.appendChild(books.children[(Math.random() * i) | 0]);
+  }
 }
