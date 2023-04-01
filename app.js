@@ -5,6 +5,8 @@ for (let i = bookCount; i >= 0; i--) {
   books.appendChild(books.children[(Math.random() * i) | 0]);
 }
 
+let prevWidth;
+
 reflow();
 window.addEventListener("resize", debounce(reflow));
 
@@ -19,6 +21,10 @@ function debounce(func) {
 function reflow() {
   const images = books.querySelectorAll("img");
   const w = window.innerWidth;
+  if (w == prevWidth) {
+    return;
+  }
+  prevWidth = window.innerWidth;
   const sizeMax = w < 600 ? 4 : w < 1024 ? 6 : w < 1400 ? 8 : 10;
   const sizeMin = Math.max(3, Math.floor(sizeMax * 0.8));
   const totalCount = images.length;
